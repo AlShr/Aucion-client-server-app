@@ -1,0 +1,602 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Хранилище AuctionModel" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityContainer Name="Хранилище AuctionModelContainer">
+          <EntitySet Name="AuctionItems" EntityType="Хранилище AuctionModel.AuctionItems" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Bids" EntityType="Хранилище AuctionModel.Bids" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Categores" EntityType="Хранилище AuctionModel.Categores" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Deals" EntityType="Хранилище AuctionModel.Deals" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="PostsUItems" EntityType="Хранилище AuctionModel.PostsUItems" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="SpecialFeaturesEntryForms" EntityType="Хранилище AuctionModel.SpecialFeaturesEntryForms" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="UserItems" EntityType="Хранилище AuctionModel.UserItems" store:Type="Tables" Schema="dbo" />
+          <AssociationSet Name="FK_dbo_AuctionItems_dbo_Categores_CategoryId" Association="Хранилище AuctionModel.FK_dbo_AuctionItems_dbo_Categores_CategoryId">
+            <End Role="Categores" EntitySet="Categores" />
+            <End Role="AuctionItems" EntitySet="AuctionItems" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_AuctionItems_dbo_SpecialFeatures_SpecialFeatureId" Association="Хранилище AuctionModel.FK_dbo_AuctionItems_dbo_SpecialFeatures_SpecialFeatureId">
+            <End Role="SpecialFeaturesEntryForms" EntitySet="SpecialFeaturesEntryForms" />
+            <End Role="AuctionItems" EntitySet="AuctionItems" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_AuctionItems_dbo_UserItems_UserItemId" Association="Хранилище AuctionModel.FK_dbo_AuctionItems_dbo_UserItems_UserItemId">
+            <End Role="UserItems" EntitySet="UserItems" />
+            <End Role="AuctionItems" EntitySet="AuctionItems" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_Bids_dbo_AuctionItems_AuctionItemID" Association="Хранилище AuctionModel.FK_dbo_Bids_dbo_AuctionItems_AuctionItemID">
+            <End Role="AuctionItems" EntitySet="AuctionItems" />
+            <End Role="Bids" EntitySet="Bids" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_Bids_dbo_Bids_BidId" Association="Хранилище AuctionModel.FK_dbo_Bids_dbo_Bids_BidId">
+            <End Role="UserItems" EntitySet="UserItems" />
+            <End Role="Bids" EntitySet="Bids" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_Deals_dbo_AuctionItems_AuctionItemID" Association="Хранилище AuctionModel.FK_dbo_Deals_dbo_AuctionItems_AuctionItemID">
+            <End Role="AuctionItems" EntitySet="AuctionItems" />
+            <End Role="Deals" EntitySet="Deals" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_Deals_dbo_Bids_BidId" Association="Хранилище AuctionModel.FK_dbo_Deals_dbo_Bids_BidId">
+            <End Role="Bids" EntitySet="Bids" />
+            <End Role="Deals" EntitySet="Deals" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_Deals_dbo_UserItems_UserItemId" Association="Хранилище AuctionModel.FK_dbo_Deals_dbo_UserItems_UserItemId">
+            <End Role="UserItems" EntitySet="UserItems" />
+            <End Role="Deals" EntitySet="Deals" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_PostsUItems_dbo_UserItems_UserItemId" Association="Хранилище AuctionModel.FK_dbo_PostsUItems_dbo_UserItems_UserItemId">
+            <End Role="UserItems" EntitySet="UserItems" />
+            <End Role="PostsUItems" EntitySet="PostsUItems" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="AuctionItems">
+          <Key>
+            <PropertyRef Name="AuctionItemId" />
+          </Key>
+          <Property Name="AuctionItemId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Discription" Type="nvarchar" MaxLength="200" />
+          <Property Name="StartPrice" Type="int" Nullable="false" />
+          <Property Name="StartDate" Type="datetime" Nullable="false" />
+          <Property Name="ImageAuctionItem" Type="varbinary(max)" />
+          <Property Name="UserItemId" Type="int" Nullable="false" />
+          <Property Name="CategoryId" Type="int" Nullable="false" />
+          <Property Name="SpecialFeatureId" Type="int" Nullable="false" />
+          <Property Name="Info" Type="nvarchar(max)" />
+          <Property Name="BuyNowPrice" Type="int" />
+          <Property Name="SaleFlag" Type="int" />
+        </EntityType>
+        <EntityType Name="Bids">
+          <Key>
+            <PropertyRef Name="BidId" />
+          </Key>
+          <Property Name="BidId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Amount" Type="int" />
+          <Property Name="UserItemId" Type="int" Nullable="false" />
+          <Property Name="AuctionItemID" Type="int" Nullable="false" />
+          <Property Name="CurrentDate" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Categores">
+          <Key>
+            <PropertyRef Name="CategoryId" />
+          </Key>
+          <Property Name="CategoryId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Category" Type="nvarchar" MaxLength="200" />
+        </EntityType>
+        <EntityType Name="Deals">
+          <Key>
+            <PropertyRef Name="DealId" />
+          </Key>
+          <Property Name="DealId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="BidId" Type="int" Nullable="false" />
+          <Property Name="AuctionItemID" Type="int" Nullable="false" />
+          <Property Name="CurrentTime" Type="datetime" />
+          <Property Name="UserItemId" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="PostsUItems">
+          <Key>
+            <PropertyRef Name="PostUItemId" />
+          </Key>
+          <Property Name="PostUItemId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Post" Type="nvarchar" MaxLength="200" />
+          <Property Name="PostTime" Type="datetime" />
+          <Property Name="UserItemId" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="SpecialFeaturesEntryForms">
+          <Key>
+            <PropertyRef Name="SpecialFeatureId" />
+          </Key>
+          <Property Name="SpecialFeatureId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Feature" Type="nvarchar" MaxLength="200" />
+        </EntityType>
+        <EntityType Name="UserItems">
+          <Key>
+            <PropertyRef Name="UserItemId" />
+          </Key>
+          <Property Name="UserItemId" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="nvarchar" MaxLength="200" />
+          <Property Name="UPassword" Type="nvarchar" MaxLength="200" />
+          <Property Name="Rating" Type="int" />
+          <Property Name="Email" Type="nvarchar" MaxLength="200" />
+          <Property Name="UserImage" Type="varbinary(max)" />
+        </EntityType>
+        <Association Name="FK_dbo_AuctionItems_dbo_Categores_CategoryId">
+          <End Role="Categores" Type="Хранилище AuctionModel.Categores" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="AuctionItems" Type="Хранилище AuctionModel.AuctionItems" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Categores">
+              <PropertyRef Name="CategoryId" />
+            </Principal>
+            <Dependent Role="AuctionItems">
+              <PropertyRef Name="CategoryId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_AuctionItems_dbo_SpecialFeatures_SpecialFeatureId">
+          <End Role="SpecialFeaturesEntryForms" Type="Хранилище AuctionModel.SpecialFeaturesEntryForms" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="AuctionItems" Type="Хранилище AuctionModel.AuctionItems" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="SpecialFeaturesEntryForms">
+              <PropertyRef Name="SpecialFeatureId" />
+            </Principal>
+            <Dependent Role="AuctionItems">
+              <PropertyRef Name="SpecialFeatureId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_AuctionItems_dbo_UserItems_UserItemId">
+          <End Role="UserItems" Type="Хранилище AuctionModel.UserItems" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="AuctionItems" Type="Хранилище AuctionModel.AuctionItems" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="UserItems">
+              <PropertyRef Name="UserItemId" />
+            </Principal>
+            <Dependent Role="AuctionItems">
+              <PropertyRef Name="UserItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_Bids_dbo_AuctionItems_AuctionItemID">
+          <End Role="AuctionItems" Type="Хранилище AuctionModel.AuctionItems" Multiplicity="1" />
+          <End Role="Bids" Type="Хранилище AuctionModel.Bids" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="AuctionItems">
+              <PropertyRef Name="AuctionItemId" />
+            </Principal>
+            <Dependent Role="Bids">
+              <PropertyRef Name="AuctionItemID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_Bids_dbo_Bids_BidId">
+          <End Role="UserItems" Type="Хранилище AuctionModel.UserItems" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="Bids" Type="Хранилище AuctionModel.Bids" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="UserItems">
+              <PropertyRef Name="UserItemId" />
+            </Principal>
+            <Dependent Role="Bids">
+              <PropertyRef Name="UserItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_Deals_dbo_AuctionItems_AuctionItemID">
+          <End Role="AuctionItems" Type="Хранилище AuctionModel.AuctionItems" Multiplicity="1" />
+          <End Role="Deals" Type="Хранилище AuctionModel.Deals" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="AuctionItems">
+              <PropertyRef Name="AuctionItemId" />
+            </Principal>
+            <Dependent Role="Deals">
+              <PropertyRef Name="AuctionItemID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_Deals_dbo_Bids_BidId">
+          <End Role="Bids" Type="Хранилище AuctionModel.Bids" Multiplicity="1" />
+          <End Role="Deals" Type="Хранилище AuctionModel.Deals" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bids">
+              <PropertyRef Name="BidId" />
+            </Principal>
+            <Dependent Role="Deals">
+              <PropertyRef Name="BidId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_Deals_dbo_UserItems_UserItemId">
+          <End Role="UserItems" Type="Хранилище AuctionModel.UserItems" Multiplicity="1" />
+          <End Role="Deals" Type="Хранилище AuctionModel.Deals" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="UserItems">
+              <PropertyRef Name="UserItemId" />
+            </Principal>
+            <Dependent Role="Deals">
+              <PropertyRef Name="UserItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_PostsUItems_dbo_UserItems_UserItemId">
+          <End Role="UserItems" Type="Хранилище AuctionModel.UserItems" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="PostsUItems" Type="Хранилище AuctionModel.PostsUItems" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="UserItems">
+              <PropertyRef Name="UserItemId" />
+            </Principal>
+            <Dependent Role="PostsUItems">
+              <PropertyRef Name="UserItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="AuctionModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="AuctionEntities" p1:LazyLoadingEnabled="true">
+          <EntitySet Name="AuctionItems" EntityType="AuctionModel.AuctionItems" />
+          <EntitySet Name="Bids" EntityType="AuctionModel.Bids" />
+          <EntitySet Name="Categores" EntityType="AuctionModel.Categores" />
+          <EntitySet Name="Deals" EntityType="AuctionModel.Deals" />
+          <EntitySet Name="PostsUItems" EntityType="AuctionModel.PostsUItems" />
+          <EntitySet Name="SpecialFeaturesEntryForms" EntityType="AuctionModel.SpecialFeaturesEntryForms" />
+          <EntitySet Name="UserItems" EntityType="AuctionModel.UserItems" />
+          <AssociationSet Name="FK_dbo_AuctionItems_dbo_Categores_CategoryId" Association="AuctionModel.FK_dbo_AuctionItems_dbo_Categores_CategoryId">
+            <End Role="Categores" EntitySet="Categores" />
+            <End Role="AuctionItems" EntitySet="AuctionItems" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_AuctionItems_dbo_SpecialFeatures_SpecialFeatureId" Association="AuctionModel.FK_dbo_AuctionItems_dbo_SpecialFeatures_SpecialFeatureId">
+            <End Role="SpecialFeaturesEntryForms" EntitySet="SpecialFeaturesEntryForms" />
+            <End Role="AuctionItems" EntitySet="AuctionItems" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_AuctionItems_dbo_UserItems_UserItemId" Association="AuctionModel.FK_dbo_AuctionItems_dbo_UserItems_UserItemId">
+            <End Role="UserItems" EntitySet="UserItems" />
+            <End Role="AuctionItems" EntitySet="AuctionItems" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_Bids_dbo_AuctionItems_AuctionItemID" Association="AuctionModel.FK_dbo_Bids_dbo_AuctionItems_AuctionItemID">
+            <End Role="AuctionItems" EntitySet="AuctionItems" />
+            <End Role="Bids" EntitySet="Bids" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_Deals_dbo_AuctionItems_AuctionItemID" Association="AuctionModel.FK_dbo_Deals_dbo_AuctionItems_AuctionItemID">
+            <End Role="AuctionItems" EntitySet="AuctionItems" />
+            <End Role="Deals" EntitySet="Deals" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_Bids_dbo_Bids_BidId" Association="AuctionModel.FK_dbo_Bids_dbo_Bids_BidId">
+            <End Role="UserItems" EntitySet="UserItems" />
+            <End Role="Bids" EntitySet="Bids" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_Deals_dbo_Bids_BidId" Association="AuctionModel.FK_dbo_Deals_dbo_Bids_BidId">
+            <End Role="Bids" EntitySet="Bids" />
+            <End Role="Deals" EntitySet="Deals" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_Deals_dbo_UserItems_UserItemId" Association="AuctionModel.FK_dbo_Deals_dbo_UserItems_UserItemId">
+            <End Role="UserItems" EntitySet="UserItems" />
+            <End Role="Deals" EntitySet="Deals" />
+          </AssociationSet>
+          <AssociationSet Name="FK_dbo_PostsUItems_dbo_UserItems_UserItemId" Association="AuctionModel.FK_dbo_PostsUItems_dbo_UserItems_UserItemId">
+            <End Role="UserItems" EntitySet="UserItems" />
+            <End Role="PostsUItems" EntitySet="PostsUItems" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="AuctionItems">
+          <Key>
+            <PropertyRef Name="AuctionItemId" />
+          </Key>
+          <Property Name="AuctionItemId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="Discription" Type="String" MaxLength="200" Unicode="true" FixedLength="false" />
+          <Property Name="StartPrice" Type="Int32" Nullable="false" />
+          <Property Name="StartDate" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="ImageAuctionItem" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="UserItemId" Type="Int32" Nullable="false" />
+          <Property Name="CategoryId" Type="Int32" Nullable="false" />
+          <Property Name="SpecialFeatureId" Type="Int32" Nullable="false" />
+          <Property Name="Info" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <Property Name="BuyNowPrice" Type="Int32" />
+          <Property Name="SaleFlag" Type="Int32" />
+          <NavigationProperty Name="Categores" Relationship="AuctionModel.FK_dbo_AuctionItems_dbo_Categores_CategoryId" FromRole="AuctionItems" ToRole="Categores" />
+          <NavigationProperty Name="SpecialFeaturesEntryForms" Relationship="AuctionModel.FK_dbo_AuctionItems_dbo_SpecialFeatures_SpecialFeatureId" FromRole="AuctionItems" ToRole="SpecialFeaturesEntryForms" />
+          <NavigationProperty Name="UserItems" Relationship="AuctionModel.FK_dbo_AuctionItems_dbo_UserItems_UserItemId" FromRole="AuctionItems" ToRole="UserItems" />
+          <NavigationProperty Name="Bids" Relationship="AuctionModel.FK_dbo_Bids_dbo_AuctionItems_AuctionItemID" FromRole="AuctionItems" ToRole="Bids" />
+          <NavigationProperty Name="Deals" Relationship="AuctionModel.FK_dbo_Deals_dbo_AuctionItems_AuctionItemID" FromRole="AuctionItems" ToRole="Deals" />
+        </EntityType>
+        <EntityType Name="Bids">
+          <Key>
+            <PropertyRef Name="BidId" />
+          </Key>
+          <Property Name="BidId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="Amount" Type="Int32" />
+          <Property Name="UserItemId" Type="Int32" Nullable="false" />
+          <Property Name="AuctionItemID" Type="Int32" Nullable="false" />
+          <Property Name="CurrentDate" Type="DateTime" Precision="3" />
+          <NavigationProperty Name="AuctionItems" Relationship="AuctionModel.FK_dbo_Bids_dbo_AuctionItems_AuctionItemID" FromRole="Bids" ToRole="AuctionItems" />
+          <NavigationProperty Name="UserItems" Relationship="AuctionModel.FK_dbo_Bids_dbo_Bids_BidId" FromRole="Bids" ToRole="UserItems" />
+          <NavigationProperty Name="Deals" Relationship="AuctionModel.FK_dbo_Deals_dbo_Bids_BidId" FromRole="Bids" ToRole="Deals" />
+        </EntityType>
+        <EntityType Name="Categores">
+          <Key>
+            <PropertyRef Name="CategoryId" />
+          </Key>
+          <Property Name="CategoryId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="Category" Type="String" MaxLength="200" Unicode="true" FixedLength="false" />
+          <NavigationProperty Name="AuctionItems" Relationship="AuctionModel.FK_dbo_AuctionItems_dbo_Categores_CategoryId" FromRole="Categores" ToRole="AuctionItems" />
+        </EntityType>
+        <EntityType Name="Deals">
+          <Key>
+            <PropertyRef Name="DealId" />
+          </Key>
+          <Property Name="DealId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="BidId" Type="Int32" Nullable="false" />
+          <Property Name="AuctionItemID" Type="Int32" Nullable="false" />
+          <Property Name="CurrentTime" Type="DateTime" Precision="3" />
+          <Property Name="UserItemId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="AuctionItems" Relationship="AuctionModel.FK_dbo_Deals_dbo_AuctionItems_AuctionItemID" FromRole="Deals" ToRole="AuctionItems" />
+          <NavigationProperty Name="Bids" Relationship="AuctionModel.FK_dbo_Deals_dbo_Bids_BidId" FromRole="Deals" ToRole="Bids" />
+          <NavigationProperty Name="UserItems" Relationship="AuctionModel.FK_dbo_Deals_dbo_UserItems_UserItemId" FromRole="Deals" ToRole="UserItems" />
+        </EntityType>
+        <EntityType Name="PostsUItems">
+          <Key>
+            <PropertyRef Name="PostUItemId" />
+          </Key>
+          <Property Name="PostUItemId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="Post" Type="String" MaxLength="200" Unicode="true" FixedLength="false" />
+          <Property Name="PostTime" Type="DateTime" Precision="3" />
+          <Property Name="UserItemId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="UserItems" Relationship="AuctionModel.FK_dbo_PostsUItems_dbo_UserItems_UserItemId" FromRole="PostsUItems" ToRole="UserItems" />
+        </EntityType>
+        <EntityType Name="SpecialFeaturesEntryForms">
+          <Key>
+            <PropertyRef Name="SpecialFeatureId" />
+          </Key>
+          <Property Name="SpecialFeatureId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="Feature" Type="String" MaxLength="200" Unicode="true" FixedLength="false" />
+          <NavigationProperty Name="AuctionItems" Relationship="AuctionModel.FK_dbo_AuctionItems_dbo_SpecialFeatures_SpecialFeatureId" FromRole="SpecialFeaturesEntryForms" ToRole="AuctionItems" />
+        </EntityType>
+        <EntityType Name="UserItems">
+          <Key>
+            <PropertyRef Name="UserItemId" />
+          </Key>
+          <Property Name="UserItemId" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" MaxLength="200" Unicode="true" FixedLength="false" />
+          <Property Name="UPassword" Type="String" MaxLength="200" Unicode="true" FixedLength="false" />
+          <Property Name="Rating" Type="Int32" />
+          <Property Name="Email" Type="String" MaxLength="200" Unicode="true" FixedLength="false" />
+          <Property Name="UserImage" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <NavigationProperty Name="AuctionItems" Relationship="AuctionModel.FK_dbo_AuctionItems_dbo_UserItems_UserItemId" FromRole="UserItems" ToRole="AuctionItems" />
+          <NavigationProperty Name="Bids" Relationship="AuctionModel.FK_dbo_Bids_dbo_Bids_BidId" FromRole="UserItems" ToRole="Bids" />
+          <NavigationProperty Name="Deals" Relationship="AuctionModel.FK_dbo_Deals_dbo_UserItems_UserItemId" FromRole="UserItems" ToRole="Deals" />
+          <NavigationProperty Name="PostsUItems" Relationship="AuctionModel.FK_dbo_PostsUItems_dbo_UserItems_UserItemId" FromRole="UserItems" ToRole="PostsUItems" />
+        </EntityType>
+        <Association Name="FK_dbo_AuctionItems_dbo_Categores_CategoryId">
+          <End Role="Categores" Type="AuctionModel.Categores" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="AuctionItems" Type="AuctionModel.AuctionItems" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Categores">
+              <PropertyRef Name="CategoryId" />
+            </Principal>
+            <Dependent Role="AuctionItems">
+              <PropertyRef Name="CategoryId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_AuctionItems_dbo_SpecialFeatures_SpecialFeatureId">
+          <End Role="SpecialFeaturesEntryForms" Type="AuctionModel.SpecialFeaturesEntryForms" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="AuctionItems" Type="AuctionModel.AuctionItems" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="SpecialFeaturesEntryForms">
+              <PropertyRef Name="SpecialFeatureId" />
+            </Principal>
+            <Dependent Role="AuctionItems">
+              <PropertyRef Name="SpecialFeatureId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_AuctionItems_dbo_UserItems_UserItemId">
+          <End Role="UserItems" Type="AuctionModel.UserItems" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="AuctionItems" Type="AuctionModel.AuctionItems" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="UserItems">
+              <PropertyRef Name="UserItemId" />
+            </Principal>
+            <Dependent Role="AuctionItems">
+              <PropertyRef Name="UserItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_Bids_dbo_AuctionItems_AuctionItemID">
+          <End Role="AuctionItems" Type="AuctionModel.AuctionItems" Multiplicity="1" />
+          <End Role="Bids" Type="AuctionModel.Bids" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="AuctionItems">
+              <PropertyRef Name="AuctionItemId" />
+            </Principal>
+            <Dependent Role="Bids">
+              <PropertyRef Name="AuctionItemID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_Deals_dbo_AuctionItems_AuctionItemID">
+          <End Role="AuctionItems" Type="AuctionModel.AuctionItems" Multiplicity="1" />
+          <End Role="Deals" Type="AuctionModel.Deals" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="AuctionItems">
+              <PropertyRef Name="AuctionItemId" />
+            </Principal>
+            <Dependent Role="Deals">
+              <PropertyRef Name="AuctionItemID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_Bids_dbo_Bids_BidId">
+          <End Role="UserItems" Type="AuctionModel.UserItems" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="Bids" Type="AuctionModel.Bids" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="UserItems">
+              <PropertyRef Name="UserItemId" />
+            </Principal>
+            <Dependent Role="Bids">
+              <PropertyRef Name="UserItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_Deals_dbo_Bids_BidId">
+          <End Role="Bids" Type="AuctionModel.Bids" Multiplicity="1" />
+          <End Role="Deals" Type="AuctionModel.Deals" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bids">
+              <PropertyRef Name="BidId" />
+            </Principal>
+            <Dependent Role="Deals">
+              <PropertyRef Name="BidId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_Deals_dbo_UserItems_UserItemId">
+          <End Role="UserItems" Type="AuctionModel.UserItems" Multiplicity="1" />
+          <End Role="Deals" Type="AuctionModel.Deals" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="UserItems">
+              <PropertyRef Name="UserItemId" />
+            </Principal>
+            <Dependent Role="Deals">
+              <PropertyRef Name="UserItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_dbo_PostsUItems_dbo_UserItems_UserItemId">
+          <End Role="UserItems" Type="AuctionModel.UserItems" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="PostsUItems" Type="AuctionModel.PostsUItems" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="UserItems">
+              <PropertyRef Name="UserItemId" />
+            </Principal>
+            <Dependent Role="PostsUItems">
+              <PropertyRef Name="UserItemId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище AuctionModelContainer" CdmEntityContainer="AuctionEntities">
+          <EntitySetMapping Name="AuctionItems">
+            <EntityTypeMapping TypeName="AuctionModel.AuctionItems">
+              <MappingFragment StoreEntitySet="AuctionItems">
+                <ScalarProperty Name="AuctionItemId" ColumnName="AuctionItemId" />
+                <ScalarProperty Name="Discription" ColumnName="Discription" />
+                <ScalarProperty Name="StartPrice" ColumnName="StartPrice" />
+                <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+                <ScalarProperty Name="ImageAuctionItem" ColumnName="ImageAuctionItem" />
+                <ScalarProperty Name="UserItemId" ColumnName="UserItemId" />
+                <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+                <ScalarProperty Name="SpecialFeatureId" ColumnName="SpecialFeatureId" />
+                <ScalarProperty Name="Info" ColumnName="Info" />
+                <ScalarProperty Name="BuyNowPrice" ColumnName="BuyNowPrice" />
+                <ScalarProperty Name="SaleFlag" ColumnName="SaleFlag" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Bids">
+            <EntityTypeMapping TypeName="AuctionModel.Bids">
+              <MappingFragment StoreEntitySet="Bids">
+                <ScalarProperty Name="BidId" ColumnName="BidId" />
+                <ScalarProperty Name="Amount" ColumnName="Amount" />
+                <ScalarProperty Name="UserItemId" ColumnName="UserItemId" />
+                <ScalarProperty Name="AuctionItemID" ColumnName="AuctionItemID" />
+                <ScalarProperty Name="CurrentDate" ColumnName="CurrentDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Categores">
+            <EntityTypeMapping TypeName="AuctionModel.Categores">
+              <MappingFragment StoreEntitySet="Categores">
+                <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+                <ScalarProperty Name="Category" ColumnName="Category" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Deals">
+            <EntityTypeMapping TypeName="AuctionModel.Deals">
+              <MappingFragment StoreEntitySet="Deals">
+                <ScalarProperty Name="DealId" ColumnName="DealId" />
+                <ScalarProperty Name="BidId" ColumnName="BidId" />
+                <ScalarProperty Name="AuctionItemID" ColumnName="AuctionItemID" />
+                <ScalarProperty Name="CurrentTime" ColumnName="CurrentTime" />
+                <ScalarProperty Name="UserItemId" ColumnName="UserItemId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="PostsUItems">
+            <EntityTypeMapping TypeName="AuctionModel.PostsUItems">
+              <MappingFragment StoreEntitySet="PostsUItems">
+                <ScalarProperty Name="PostUItemId" ColumnName="PostUItemId" />
+                <ScalarProperty Name="Post" ColumnName="Post" />
+                <ScalarProperty Name="PostTime" ColumnName="PostTime" />
+                <ScalarProperty Name="UserItemId" ColumnName="UserItemId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="SpecialFeaturesEntryForms">
+            <EntityTypeMapping TypeName="AuctionModel.SpecialFeaturesEntryForms">
+              <MappingFragment StoreEntitySet="SpecialFeaturesEntryForms">
+                <ScalarProperty Name="SpecialFeatureId" ColumnName="SpecialFeatureId" />
+                <ScalarProperty Name="Feature" ColumnName="Feature" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="UserItems">
+            <EntityTypeMapping TypeName="AuctionModel.UserItems">
+              <MappingFragment StoreEntitySet="UserItems">
+                <ScalarProperty Name="UserItemId" ColumnName="UserItemId" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="UPassword" ColumnName="UPassword" />
+                <ScalarProperty Name="Rating" ColumnName="Rating" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="UserImage" ColumnName="UserImage" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="bdbf774f3ee441978ea4768e3935281a" Name="Диаграмма1">
+        <EntityTypeShape EntityType="AuctionModel.AuctionItems" Width="1.5" PointX="3" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AuctionModel.Bids" Width="1.5" PointX="5.25" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AuctionModel.Categores" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AuctionModel.Deals" Width="1.5" PointX="7.5" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="AuctionModel.PostsUItems" Width="1.5" PointX="3" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="AuctionModel.SpecialFeaturesEntryForms" Width="1.5" PointX="0.75" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="AuctionModel.UserItems" Width="1.5" PointX="0.75" PointY="3.25" IsExpanded="true" />
+        <AssociationConnector Association="AuctionModel.FK_dbo_AuctionItems_dbo_Categores_CategoryId" ManuallyRouted="false" />
+        <AssociationConnector Association="AuctionModel.FK_dbo_AuctionItems_dbo_SpecialFeatures_SpecialFeatureId" ManuallyRouted="false" />
+        <AssociationConnector Association="AuctionModel.FK_dbo_AuctionItems_dbo_UserItems_UserItemId" ManuallyRouted="false" />
+        <AssociationConnector Association="AuctionModel.FK_dbo_Bids_dbo_AuctionItems_AuctionItemID" ManuallyRouted="false" />
+        <AssociationConnector Association="AuctionModel.FK_dbo_Deals_dbo_AuctionItems_AuctionItemID" ManuallyRouted="false" />
+        <AssociationConnector Association="AuctionModel.FK_dbo_Bids_dbo_Bids_BidId" ManuallyRouted="false" />
+        <AssociationConnector Association="AuctionModel.FK_dbo_Deals_dbo_Bids_BidId" ManuallyRouted="false" />
+        <AssociationConnector Association="AuctionModel.FK_dbo_Deals_dbo_UserItems_UserItemId" ManuallyRouted="false" />
+        <AssociationConnector Association="AuctionModel.FK_dbo_PostsUItems_dbo_UserItems_UserItemId" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

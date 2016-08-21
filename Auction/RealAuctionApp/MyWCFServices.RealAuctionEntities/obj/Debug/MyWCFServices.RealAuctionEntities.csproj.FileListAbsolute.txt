@@ -1,0 +1,62 @@
+F:\Programing\EntityFramework\New\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\New\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\New\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\New\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\New\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.pdb
+C:\Users\alena\Desktop\Auction\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+C:\Users\alena\Desktop\Auction\RealAuctionApp\MyWCFServices.RealAuctionEntities\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+C:\Users\alena\Desktop\Auction\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\Auction\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.dll
+C:\Users\alena\Desktop\Auction\RealAuctionApp\MyWCFServices.RealAuctionEntities\obj\Debug\MyWCFServices.RealAuctionEntities.pdb

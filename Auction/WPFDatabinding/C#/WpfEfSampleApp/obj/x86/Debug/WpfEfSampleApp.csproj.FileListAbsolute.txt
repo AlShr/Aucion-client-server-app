@@ -1,0 +1,1121 @@
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\bin\Debug\WpfEfDAL.dll
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\bin\Debug\WpfEfDAL.pdb
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\ListBoxBinding.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\LookupComboboxBinding.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\MasterDetailBinding.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\SimpleDataEntry.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\SimpleDataGrid.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\SimpleValidation.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\FormattingAndValidation.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\ListBoxBinding.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\LookupComboboxBinding.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\MasterDetailBinding.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\SimpleDataEntry.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\SimpleDataGrid.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\SimpleValidation.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\FormattingAndValidation.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\bin\Debug\WpfEfDAL.dll
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\bin\Debug\WpfEfDAL.pdb
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\ListBoxBinding.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\LookupComboboxBinding.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\MasterDetailBinding.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\SimpleDataEntry.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\SimpleDataGrid.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\SimpleValidation.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\FormattingAndValidation.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\ListBoxBinding.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\LookupComboboxBinding.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\MasterDetailBinding.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\SimpleDataEntry.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\SimpleDataGrid.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\SimpleValidation.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\FormattingAndValidation.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\WpfSimpleDictionary.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\WPF Databinding in Visual Studio 2010 RTM - копия 04.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 05.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 06.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 07.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 10.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\WPF Databinding in Visual Studio 2010 RTM - копия 11.08.14\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+C:\Users\Алёна\Documents\Visual Studio 2010\Projects\REWCFAuctionAPP20.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\New\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\UserSetComunication.baml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.xml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.xml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Controls.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Diff.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Web.Http.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ActualBid.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ActualBid.baml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\UserSetComunication.baml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.xml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.xml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Controls.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Diff.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Web.Http.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.baml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.xml
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.xml
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Controls.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Diff.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Web.Http.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.baml
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\New28.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.xml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.xml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Controls.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Diff.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Web.Http.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.baml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.xml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.xml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Controls.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Diff.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Web.Http.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.baml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.xml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.xml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Controls.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Diff.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Web.Http.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.baml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.xml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.xml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Controls.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Diff.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Web.Http.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.baml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.xml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.xml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Controls.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Diff.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Web.Http.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.baml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.xml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.xml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Controls.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Diff.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Web.Http.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.baml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.xml
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.xml
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Controls.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Diff.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Web.Http.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.baml
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\New08.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.xml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.xml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Controls.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Diff.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Web.Http.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Listbox.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ShinyBlue.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Controls.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Common.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.Client.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.TeamFoundation.Diff.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\Microsoft.VisualStudio.Services.WebApi.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Net.Http.Formatting.xml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Web.Http.xml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Controls.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Common.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.Client.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.TeamFoundation.Diff.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\ru\System.Web.Http.resources.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Listbox.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ShinyBlue.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.Net\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.Net\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+C:\Users\alena\Documents\Visual Studio 2013\Projects\.Net\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+F:\Expiriense\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+F:\Expiriense\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+F:\Expiriense\New09.09.14 - 2\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe.config
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.exe
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.pdb
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.exe
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\WpfEfSampleApp.pdb
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.dll
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\System.Data.SqlServerCe.Entity.dll
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.xml
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BlueSkin.baml
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Button.baml
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Listbox.baml
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.baml
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.baml
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ShinyBlue.baml
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.baml
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.g.cs
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.g.cs
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Page1.g.cs
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.g.cs
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.g.cs
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\App.g.cs
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.cache
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp_MarkupCompile.lref
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\AuctionItemView.baml
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\BidItemCurrent.baml
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\EfDictionary.baml
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\ProductAddAuction.baml
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\Regestration.baml
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.g.resources
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.Properties.Resources.resources
+C:\Users\alena\Desktop\Auction\WPFDatabinding\C#\WpfEfSampleApp\obj\x86\Debug\WpfEfSampleApp.csproj.GenerateResource.Cache

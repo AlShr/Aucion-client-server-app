@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище AuctionModelContainer" CdmEntityContainer="AuctionEntities">
+    <EntitySetMapping Name="AuctionItems">
+      <EntityTypeMapping TypeName="AuctionModel.AuctionItems">
+        <MappingFragment StoreEntitySet="AuctionItems">
+          <ScalarProperty Name="AuctionItemId" ColumnName="AuctionItemId" />
+          <ScalarProperty Name="Discription" ColumnName="Discription" />
+          <ScalarProperty Name="StartPrice" ColumnName="StartPrice" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="ImageAuctionItem" ColumnName="ImageAuctionItem" />
+          <ScalarProperty Name="UserItemId" ColumnName="UserItemId" />
+          <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+          <ScalarProperty Name="SpecialFeatureId" ColumnName="SpecialFeatureId" />
+          <ScalarProperty Name="Info" ColumnName="Info" />
+          <ScalarProperty Name="BuyNowPrice" ColumnName="BuyNowPrice" />
+          <ScalarProperty Name="SaleFlag" ColumnName="SaleFlag" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Bids">
+      <EntityTypeMapping TypeName="AuctionModel.Bids">
+        <MappingFragment StoreEntitySet="Bids">
+          <ScalarProperty Name="BidId" ColumnName="BidId" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="UserItemId" ColumnName="UserItemId" />
+          <ScalarProperty Name="AuctionItemID" ColumnName="AuctionItemID" />
+          <ScalarProperty Name="CurrentDate" ColumnName="CurrentDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Categores">
+      <EntityTypeMapping TypeName="AuctionModel.Categores">
+        <MappingFragment StoreEntitySet="Categores">
+          <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+          <ScalarProperty Name="Category" ColumnName="Category" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Deals">
+      <EntityTypeMapping TypeName="AuctionModel.Deals">
+        <MappingFragment StoreEntitySet="Deals">
+          <ScalarProperty Name="DealId" ColumnName="DealId" />
+          <ScalarProperty Name="BidId" ColumnName="BidId" />
+          <ScalarProperty Name="AuctionItemID" ColumnName="AuctionItemID" />
+          <ScalarProperty Name="CurrentTime" ColumnName="CurrentTime" />
+          <ScalarProperty Name="UserItemId" ColumnName="UserItemId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PostsUItems">
+      <EntityTypeMapping TypeName="AuctionModel.PostsUItems">
+        <MappingFragment StoreEntitySet="PostsUItems">
+          <ScalarProperty Name="PostUItemId" ColumnName="PostUItemId" />
+          <ScalarProperty Name="Post" ColumnName="Post" />
+          <ScalarProperty Name="PostTime" ColumnName="PostTime" />
+          <ScalarProperty Name="UserItemId" ColumnName="UserItemId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SpecialFeaturesEntryForms">
+      <EntityTypeMapping TypeName="AuctionModel.SpecialFeaturesEntryForms">
+        <MappingFragment StoreEntitySet="SpecialFeaturesEntryForms">
+          <ScalarProperty Name="SpecialFeatureId" ColumnName="SpecialFeatureId" />
+          <ScalarProperty Name="Feature" ColumnName="Feature" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserItems">
+      <EntityTypeMapping TypeName="AuctionModel.UserItems">
+        <MappingFragment StoreEntitySet="UserItems">
+          <ScalarProperty Name="UserItemId" ColumnName="UserItemId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="UPassword" ColumnName="UPassword" />
+          <ScalarProperty Name="Rating" ColumnName="Rating" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="UserImage" ColumnName="UserImage" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

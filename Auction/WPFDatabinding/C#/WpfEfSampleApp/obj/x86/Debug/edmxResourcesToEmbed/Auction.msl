@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="urn:schemas-microsoft-com:windows:storage:mapping:CS">
+  <EntityContainerMapping StorageEntityContainer="Хранилище AuctionModelContainer" CdmEntityContainer="AuctionEntities">
+    <EntitySetMapping Name="AuctionItem">
+      <EntityTypeMapping TypeName="AuctionModel.AuctionItem">
+        <MappingFragment StoreEntitySet="AuctionItem">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="discription" ColumnName="discription" />
+          <ScalarProperty Name="startPrice" ColumnName="startPrice" />
+          <ScalarProperty Name="startDate" ColumnName="startDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Bid">
+      <EntityTypeMapping TypeName="AuctionModel.Bid">
+        <MappingFragment StoreEntitySet="Bid">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Category">
+      <EntityTypeMapping TypeName="AuctionModel.Category">
+        <MappingFragment StoreEntitySet="Category">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="category1" ColumnName="category" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SpecialFeaturesEntryForm">
+      <EntityTypeMapping TypeName="AuctionModel.SpecialFeaturesEntryForm">
+        <MappingFragment StoreEntitySet="SpecialFeaturesEntryForm">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="features" ColumnName="features" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserItem">
+      <EntityTypeMapping TypeName="AuctionModel.UserItem">
+        <MappingFragment StoreEntitySet="UserItem">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="upassword" ColumnName="upassword" />
+          <ScalarProperty Name="rating" ColumnName="rating" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="FK__AuctionIt__bidID__33D4B598" TypeName="AuctionModel.FK__AuctionIt__bidID__33D4B598" StoreEntitySet="AuctionItem">
+      <EndProperty Name="Bid">
+        <ScalarProperty Name="id" ColumnName="bidID" />
+      </EndProperty>
+      <EndProperty Name="AuctionItem">
+        <ScalarProperty Name="id" ColumnName="id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK__AuctionIt__categ__30F848ED" TypeName="AuctionModel.FK__AuctionIt__categ__30F848ED" StoreEntitySet="AuctionItem">
+      <EndProperty Name="Category">
+        <ScalarProperty Name="id" ColumnName="categoryID" />
+      </EndProperty>
+      <EndProperty Name="AuctionItem">
+        <ScalarProperty Name="id" ColumnName="id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK__AuctionIt__spech__31EC6D26" TypeName="AuctionModel.FK__AuctionIt__spech__31EC6D26" StoreEntitySet="AuctionItem">
+      <EndProperty Name="SpecialFeaturesEntryForm">
+        <ScalarProperty Name="id" ColumnName="spechfeatID" />
+      </EndProperty>
+      <EndProperty Name="AuctionItem">
+        <ScalarProperty Name="id" ColumnName="id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK__AuctionIt__userI__32E0915F" TypeName="AuctionModel.FK__AuctionIt__userI__32E0915F" StoreEntitySet="AuctionItem">
+      <EndProperty Name="UserItem">
+        <ScalarProperty Name="id" ColumnName="userID" />
+      </EndProperty>
+      <EndProperty Name="AuctionItem">
+        <ScalarProperty Name="id" ColumnName="id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK__Bid__userID__0519C6AF" TypeName="AuctionModel.FK__Bid__userID__0519C6AF" StoreEntitySet="Bid">
+      <EndProperty Name="UserItem">
+        <ScalarProperty Name="id" ColumnName="userID" />
+      </EndProperty>
+      <EndProperty Name="Bid">
+        <ScalarProperty Name="id" ColumnName="id" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

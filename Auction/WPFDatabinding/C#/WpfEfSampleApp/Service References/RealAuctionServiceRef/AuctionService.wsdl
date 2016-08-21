@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="AuctionService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsp:Policy wsu:Id="WSDualHttpBinding_IAuctionService_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <wsrm:RMAssertion xmlns:wsrm="http://schemas.xmlsoap.org/ws/2005/02/rm/policy">
+          <wsrm:InactivityTimeout Milliseconds="600000" />
+          <wsrm:AcknowledgementInterval Milliseconds="200" />
+        </wsrm:RMAssertion>
+        <cdp:CompositeDuplex xmlns:cdp="http://schemas.microsoft.com/net/2006/06/duplex" />
+        <ow:OneWay xmlns:ow="http://schemas.microsoft.com/ws/2005/05/routing/policy" />
+        <wsaw:UsingAddressing />
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/MyWCFServices/RealAuctionService/AuctionService/?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/MyWCFServices/RealAuctionService/AuctionService/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/MyWCFServices/RealAuctionService/AuctionService/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/MyWCFServices.RealAuctionService" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IAuctionService_GetUserItem_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetUserItem" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_GetUserItem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetUserItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_GetAuctionItem_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAuctionItem" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_GetAuctionItem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAuctionItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_InsertUserItem_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertUserItem" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_InsertUserItem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertUserItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_InsertAuctionItem_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertAuctionItem" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_InsertAuctionItem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertAuctionItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_GetCategory_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCategory" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_GetCategory_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCategoryResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_GetSpecialFeature_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetSpecialFeature" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_GetSpecialFeature_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetSpecialFeatureResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_GetPostsUserItem_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPostsUserItem" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_GetPostsUserItem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPostsUserItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_GetBidsItem_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetBidsItem" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_GetBidsItem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetBidsItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_InsertPostUserItem_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertPostUserItem" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_InsertPostUserItem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertPostUserItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_InsertBidsItem_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertBidsItem" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_InsertBidsItem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertBidsItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_GetCurrentBid_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCurrentBid" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_GetCurrentBid_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCurrentBidResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_ExecuteDealItem_InputMessage">
+    <wsdl:part name="parameters" element="tns:ExecuteDealItem" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_ExecuteDealItem_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ExecuteDealItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_UserItemJoined_InputMessage">
+    <wsdl:part name="parameters" element="tns:UserItemJoined" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_UserItemJoined_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UserItemJoinedResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_LeavedAuctionNavigation_InputMessage">
+    <wsdl:part name="parameters" element="tns:LeavedAuctionNavigation" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_LeavedAuctionNavigation_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LeavedAuctionNavigationResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_RefreshAuctionItems_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:RefreshAuctionItems" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_RefreshAuctionItems_InputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:RefreshAuctionItemsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_RefreshBidItem_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:RefreshBidItem" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_RefreshBidItem_InputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:RefreshBidItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_RefreshPostsUItem_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:RefreshPostsUItem" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_RefreshPostsUItem_InputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:RefreshPostsUItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_RefreshBidItems_OutputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:RefreshBidItems" />
+  </wsdl:message>
+  <wsdl:message name="IAuctionService_RefreshBidItems_InputCallbackMessage">
+    <wsdl:part name="parameters" element="tns:RefreshBidItemsResponse" />
+  </wsdl:message>
+  <wsdl:portType msc:usingSession="true" name="IAuctionService">
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="GetUserItem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/GetUserItem" message="tns:IAuctionService_GetUserItem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/GetUserItemResponse" message="tns:IAuctionService_GetUserItem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="GetAuctionItem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/GetAuctionItem" message="tns:IAuctionService_GetAuctionItem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/GetAuctionItemResponse" message="tns:IAuctionService_GetAuctionItem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="InsertUserItem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/InsertUserItem" message="tns:IAuctionService_InsertUserItem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/InsertUserItemResponse" message="tns:IAuctionService_InsertUserItem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="InsertAuctionItem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/InsertAuctionItem" message="tns:IAuctionService_InsertAuctionItem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/InsertAuctionItemResponse" message="tns:IAuctionService_InsertAuctionItem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="GetCategory">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/GetCategory" message="tns:IAuctionService_GetCategory_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/GetCategoryResponse" message="tns:IAuctionService_GetCategory_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="GetSpecialFeature">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/GetSpecialFeature" message="tns:IAuctionService_GetSpecialFeature_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/GetSpecialFeatureResponse" message="tns:IAuctionService_GetSpecialFeature_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="GetPostsUserItem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/GetPostsUserItem" message="tns:IAuctionService_GetPostsUserItem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/GetPostsUserItemResponse" message="tns:IAuctionService_GetPostsUserItem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="GetBidsItem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/GetBidsItem" message="tns:IAuctionService_GetBidsItem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/GetBidsItemResponse" message="tns:IAuctionService_GetBidsItem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="InsertPostUserItem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/InsertPostUserItem" message="tns:IAuctionService_InsertPostUserItem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/InsertPostUserItemResponse" message="tns:IAuctionService_InsertPostUserItem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="InsertBidsItem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/InsertBidsItem" message="tns:IAuctionService_InsertBidsItem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/InsertBidsItemResponse" message="tns:IAuctionService_InsertBidsItem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="GetCurrentBid">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/GetCurrentBid" message="tns:IAuctionService_GetCurrentBid_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/GetCurrentBidResponse" message="tns:IAuctionService_GetCurrentBid_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="ExecuteDealItem">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/ExecuteDealItem" message="tns:IAuctionService_ExecuteDealItem_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/ExecuteDealItemResponse" message="tns:IAuctionService_ExecuteDealItem_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="UserItemJoined">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/UserItemJoined" message="tns:IAuctionService_UserItemJoined_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/UserItemJoinedResponse" message="tns:IAuctionService_UserItemJoined_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="LeavedAuctionNavigation">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/LeavedAuctionNavigation" message="tns:IAuctionService_LeavedAuctionNavigation_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/LeavedAuctionNavigationResponse" message="tns:IAuctionService_LeavedAuctionNavigation_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="RefreshAuctionItems">
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/RefreshAuctionItems" message="tns:IAuctionService_RefreshAuctionItems_OutputCallbackMessage" />
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/RefreshAuctionItemsResponse" message="tns:IAuctionService_RefreshAuctionItems_InputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="RefreshBidItem">
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/RefreshBidItem" message="tns:IAuctionService_RefreshBidItem_OutputCallbackMessage" />
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/RefreshBidItemResponse" message="tns:IAuctionService_RefreshBidItem_InputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="RefreshPostsUItem">
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/RefreshPostsUItem" message="tns:IAuctionService_RefreshPostsUItem_OutputCallbackMessage" />
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/RefreshPostsUItemResponse" message="tns:IAuctionService_RefreshPostsUItem_InputCallbackMessage" />
+    </wsdl:operation>
+    <wsdl:operation msc:isInitiating="true" msc:isTerminating="false" name="RefreshBidItems">
+      <wsdl:output wsaw:Action="http://tempuri.org/IAuctionService/RefreshBidItems" message="tns:IAuctionService_RefreshBidItems_OutputCallbackMessage" />
+      <wsdl:input wsaw:Action="http://tempuri.org/IAuctionService/RefreshBidItemsResponse" message="tns:IAuctionService_RefreshBidItems_InputCallbackMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSDualHttpBinding_IAuctionService" type="tns:IAuctionService">
+    <wsp:PolicyReference URI="#WSDualHttpBinding_IAuctionService_policy" />
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetUserItem">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/GetUserItem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAuctionItem">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/GetAuctionItem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertUserItem">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/InsertUserItem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertAuctionItem">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/InsertAuctionItem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCategory">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/GetCategory" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSpecialFeature">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/GetSpecialFeature" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPostsUserItem">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/GetPostsUserItem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetBidsItem">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/GetBidsItem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertPostUserItem">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/InsertPostUserItem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertBidsItem">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/InsertBidsItem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCurrentBid">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/GetCurrentBid" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExecuteDealItem">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/ExecuteDealItem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UserItemJoined">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/UserItemJoined" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LeavedAuctionNavigation">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/LeavedAuctionNavigation" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RefreshAuctionItems">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/RefreshAuctionItems" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RefreshBidItem">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/RefreshBidItem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RefreshPostsUItem">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/RefreshPostsUItem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RefreshBidItems">
+      <soap12:operation soapAction="http://tempuri.org/IAuctionService/RefreshBidItems" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="AuctionService">
+    <wsdl:port name="WSDualHttpBinding_IAuctionService" binding="tns:WSDualHttpBinding_IAuctionService">
+      <soap12:address location="http://localhost:8733/Design_Time_Addresses/MyWCFServices/RealAuctionService/AuctionService/" />
+      <wsa10:EndpointReference>
+        <wsa10:Address>http://localhost:8733/Design_Time_Addresses/MyWCFServices/RealAuctionService/AuctionService/</wsa10:Address>
+        <Identity xmlns="http://schemas.xmlsoap.org/ws/2006/02/addressingidentity">
+          <Dns>localhost</Dns>
+        </Identity>
+      </wsa10:EndpointReference>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

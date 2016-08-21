@@ -1,0 +1,770 @@
+﻿<ResourceDictionary
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" >
+	
+    <SolidColorBrush x:Key="TitleTextForeground" Color="#FF303030"/>
+
+    <SolidColorBrush x:Key="WindowBorder" Color="#FF6B7D99" />
+    
+    <LinearGradientBrush x:Key="ContactTitleBackground" StartPoint="0.5,0" EndPoint="0.5,1" >
+        <GradientStop Color="#FFFFFFFF" Offset="0"/>
+        <GradientStop Color="#FFDFECFF" Offset="0.3"/>
+        <GradientStop Color="#FFA6C0E2" Offset="1"/>
+    </LinearGradientBrush>
+    
+    <LinearGradientBrush x:Key="ContactListBackground" EndPoint="0.5,1" StartPoint="0.5,0">
+		<GradientStop Color="#FFFFFFFF" Offset="0"/>
+		<GradientStop Color="#FFC5D3E8" Offset="1"/>
+	</LinearGradientBrush>
+	
+	<LinearGradientBrush x:Key="ConnectBackground" EndPoint="0.5,1" StartPoint="0.5,0">
+		<GradientStop Color="#FFA6C0E2" Offset="0"/>
+		<GradientStop Color="#FFC5D3E8" Offset="1"/>
+	</LinearGradientBrush>
+    
+    <SolidColorBrush x:Key="ConversationBorder" Color="#FF8AA2CC"/>
+    
+    <LinearGradientBrush x:Key="ConversationBackground" EndPoint="0.5,1" StartPoint="0.5,0">
+        <GradientStop Color="#FF788DB2" Offset="0"/>
+        <GradientStop Color="#FFC5D3E8" Offset="0.2"/>
+        <GradientStop Color="#FFC5D3E8" Offset="0.3"/>
+        <GradientStop Color="#FF2A426C" Offset="1"/>
+        <GradientStop Color="#FFA6C0E2" Offset="0"/>
+    </LinearGradientBrush>
+
+    <LinearGradientBrush  x:Key="BackgroungCurrentItem"  Opacity="0.9"   EndPoint="0.5,1" StartPoint="0.5,0" >
+
+        <GradientStop Color="#FFA6C0E2" Offset="0.2"/>      
+        <GradientStop Color="#FF1041EA" Offset="0.707"/>
+        <GradientStop Color="#FF277CD8" Offset="0.909"/>
+        <GradientStop Color="#FF007AFF" Offset="0.1"/>
+        <GradientStop Color="#FF007AFF" Offset="0.8"/>
+        <GradientStop Offset="0" Color="#66E0E0E0" />
+        <GradientStop Offset="1" Color="#66303030" />
+    </LinearGradientBrush>
+
+
+    <SolidColorBrush x:Key="ConversationToolbarBorder" Color="#FF8AA2CC" />
+    <SolidColorBrush x:Key="ConverationToolbarBackground" Color="#FFC5D3E8" />
+    <SolidColorBrush x:Key="ConversationListboxBackground" Color="White" />
+    <SolidColorBrush x:Key="ConversationTextboxBackground" Color="White" />
+    <SolidColorBrush x:Key="ConversationStatusForeground" Color="#FFC5D3E8" />
+    
+    
+    <DrawingImage x:Key="BusyStatusIcon">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush StartPoint="0.3,0" EndPoint="0.8,1">                            
+                    	<GradientStop Offset="0" Color="#FFE53423" />
+                    	<GradientStop Offset="1" Color="#FFB81303" />                        
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Pen>
+                    <Pen Thickness="2">
+                        <Pen.Brush>
+                            <LinearGradientBrush StartPoint="0.3,0" EndPoint="0.8,1">
+                                <GradientStop Offset="0" Color="#66E0E0E0" />
+                                <GradientStop Offset="1" Color="#66303030" />
+                            </LinearGradientBrush>
+                        </Pen.Brush>
+                    </Pen>
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                    <EllipseGeometry RadiusX="20" RadiusY="20" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+	
+	<DrawingImage x:Key="AwayStatusIcon">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush StartPoint="0.3,0" EndPoint="0.8,1">                            
+                    	<GradientStop Offset="0" Color="#FFFFC800" />
+                    	<GradientStop Offset="1" Color="#FFFFA500" />                                                    
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Pen>
+                    <Pen Thickness="2">
+                        <Pen.Brush>
+                            <LinearGradientBrush StartPoint="0.3,0" EndPoint="0.8,1">
+                                <GradientStop Offset="0" Color="#66E0E0E0" />
+                                <GradientStop Offset="1" Color="#66303030" />
+                            </LinearGradientBrush>
+                        </Pen.Brush>
+                    </Pen>
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                    <EllipseGeometry RadiusX="20" RadiusY="20" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+
+    <DrawingImage x:Key="IdleStatusIcon">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush StartPoint="0.3,0" EndPoint="0.8,1">
+                        <GradientStop Offset="0" Color="#FF64BFED" />
+                        <GradientStop Offset="0.45" Color="#FF6495ED" />
+                        <GradientStop Offset="0.55" Color="#FFFFC800" />
+                        <GradientStop Offset="0.9" Color="#FFFFA500" />
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Pen>
+                    <Pen Thickness="2">
+                        <Pen.Brush>
+                            <LinearGradientBrush StartPoint="0.3,0" EndPoint="0.8,1">
+                                <GradientStop Offset="0" Color="#66E0E0E0" />
+                                <GradientStop Offset="1" Color="#66303030" />
+                            </LinearGradientBrush>
+                        </Pen.Brush>
+                    </Pen>
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                    <EllipseGeometry RadiusX="20" RadiusY="20" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+
+    <DrawingImage x:Key="OfflineStatusIcon">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush StartPoint="0.3,0" EndPoint="0.8,1">                                                       
+                    	<GradientStop Offset="0" Color="#FFE5E5E5" />
+                    	<GradientStop Offset="1" Color="#FFBABABA" />                        
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Pen>
+                    <Pen Thickness="2">
+                        <Pen.Brush>
+                            <LinearGradientBrush StartPoint="0.3,0" EndPoint="0.8,1">
+                                <GradientStop Offset="0" Color="#66E0E0E0" />
+                                <GradientStop Offset="1" Color="#66303030" />
+                            </LinearGradientBrush>
+                        </Pen.Brush>
+                    </Pen>
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                    <EllipseGeometry RadiusX="20" RadiusY="20" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+	
+	<DrawingImage x:Key="OnlineStatusIcon">
+        <DrawingImage.Drawing>
+            <GeometryDrawing>
+                <GeometryDrawing.Brush>
+                    <LinearGradientBrush StartPoint="0.3,0" EndPoint="0.8,1">
+                        <!-- Orange
+                    <GradientStop Offset="0" Color="#FFFFC800" />
+                    <GradientStop Offset="1" Color="#FFFFA500" />
+                    -->
+                        <!-- Blue -->
+                        <GradientStop Offset="0" Color="#FF64BFED" />
+                        <GradientStop Offset="1" Color="#FF6495ED" />
+
+                        <!-- Red
+                    <GradientStop Offset="0" Color="#FFE53423" />
+                    <GradientStop Offset="1" Color="#FFB81303" />
+                    -->
+                        <!-- Gray
+                    <GradientStop Offset="0" Color="#FFE5E5E5" />
+                    <GradientStop Offset="1" Color="#FFBABABA" />
+                    -->
+                    </LinearGradientBrush>
+                </GeometryDrawing.Brush>
+                <GeometryDrawing.Pen>
+                    <Pen Thickness="2">
+                        <Pen.Brush>
+                            <LinearGradientBrush StartPoint="0.3,0" EndPoint="0.8,1">
+                                <GradientStop Offset="0" Color="#66E0E0E0" />
+                                <GradientStop Offset="1" Color="#66303030" />
+                            </LinearGradientBrush>
+                        </Pen.Brush>
+                    </Pen>
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                    <EllipseGeometry RadiusX="20" RadiusY="20" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+
+    <DrawingImage x:Key="BlockedIcon">
+        <DrawingImage.Drawing>
+            <DrawingGroup>
+                <DrawingGroup.Children>
+
+                    <!-- Circle with no filling -->
+                    <GeometryDrawing>
+                        <GeometryDrawing.Pen>
+                            <Pen Thickness="3">
+                                <Pen.Brush>
+                                    <LinearGradientBrush StartPoint="0.3,0" EndPoint="0.8,1">
+                                        <GradientStop Offset="0" Color="#FFAC1304" />
+                                        <GradientStop Offset="0.5" Color="#FFE53423" />
+                                        <GradientStop Offset="1" Color="#FFAC1304" />
+                                    </LinearGradientBrush>
+                                </Pen.Brush>
+                            </Pen>
+                        </GeometryDrawing.Pen>
+                        <GeometryDrawing.Geometry>
+                            <EllipseGeometry RadiusX="10" RadiusY="10" />
+                        </GeometryDrawing.Geometry>
+                    </GeometryDrawing>
+
+
+                    <!-- Bar in middle of circle -->
+                    <GeometryDrawing>
+                        <GeometryDrawing.Pen>
+                            <Pen Thickness="3">
+                                <Pen.Brush>
+                                    <LinearGradientBrush StartPoint="0.3,0" EndPoint="0.8,1">
+                                        <GradientStop Offset="0" Color="#FFAC1304" />
+                                        <GradientStop Offset="0.5" Color="#FFE53423" />
+                                        <GradientStop Offset="1" Color="#FFAC1304" />
+                                    </LinearGradientBrush>
+                                </Pen.Brush>
+                            </Pen>
+                        </GeometryDrawing.Pen>
+
+                        <GeometryDrawing.Geometry>
+                            <LineGeometry StartPoint="-7,7" EndPoint="7,-7" />
+                        </GeometryDrawing.Geometry>
+                    </GeometryDrawing>
+
+                </DrawingGroup.Children>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+		
+    <DrawingImage x:Key="DownArrowIcon">
+        <DrawingImage.Drawing>
+            <GeometryDrawing Brush="#FF6B7D99">
+                <GeometryDrawing.Pen>
+                    <Pen Thickness="2" Brush="#FF6B7D99" />
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                  <PathGeometry>
+                    <PathFigure IsClosed="True">                          
+                      <LineSegment Point="10,0" />
+                      <LineSegment Point="5,8" />                          
+                    </PathFigure>                        
+                  </PathGeometry>                        
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+        
+    <DrawingImage x:Key="UpArrowIcon">
+        <DrawingImage.Drawing>
+            <GeometryDrawing Brush="#FF6B7D99">
+                <GeometryDrawing.Pen>
+                    <Pen Thickness="2" Brush="#FF6B7D99" />
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                  <PathGeometry>
+                    <PathFigure IsClosed="True">                          
+                      <LineSegment Point="10,0" />
+                      <LineSegment Point="5,-8" />                          
+                    </PathFigure>                        
+                  </PathGeometry>                        
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    
+    <DrawingImage x:Key="CloseIcon">
+        <DrawingImage.Drawing>
+          <DrawingGroup>
+            <GeometryDrawing>
+                <GeometryDrawing.Pen>
+                    <Pen Thickness="1" Brush="Transparent" />
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                  <PathGeometry>
+                    <PathFigure IsClosed="True">
+                      <LineSegment Point="10,0" />
+                      <LineSegment Point="10,10" />
+                      <LineSegment Point="0,10" />
+                    </PathFigure>                        
+                  </PathGeometry>                        
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing Brush="#FF6B7D99">
+                <GeometryDrawing.Pen>
+                    <Pen Thickness="2" Brush="#FF6B7D99" StartLineCap="Round" EndLineCap="Round"  />
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                  <PathGeometry>
+                    <PathFigure StartPoint="1,1">
+                      <LineSegment Point="9,9" />
+                    </PathFigure>
+                    <PathFigure StartPoint="9,1">
+                      <LineSegment Point="1,9" />
+                    </PathFigure>
+                  </PathGeometry>                        
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    
+    <DrawingImage x:Key="MinimizeIcon">
+        <DrawingImage.Drawing>
+          <DrawingGroup>
+            <GeometryDrawing>
+                <GeometryDrawing.Pen>
+                    <Pen Thickness="2" Brush="#FF6B7D99" />
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                  <PathGeometry>
+                    <PathFigure StartPoint="0,9">
+                      <LineSegment Point="10,9" />
+                    </PathFigure>
+                  </PathGeometry>                        
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+             <GeometryDrawing>
+                <GeometryDrawing.Pen>
+                    <Pen Thickness="2" Brush="Transparent" />
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                  <PathGeometry>
+                    <PathFigure StartPoint="0,10">
+                      <LineSegment Point="10,10" />
+                    </PathFigure>
+                  </PathGeometry>                        
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    
+    <DrawingImage x:Key="HideIcon">
+        <DrawingImage.Drawing>
+          <GeometryDrawing Brush="#FF6B7D99">
+                <GeometryDrawing.Pen>
+                    <Pen Thickness="2" Brush="#FF6B7D99" StartLineCap="Round" EndLineCap="Round" />
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                  <PathGeometry>
+                    <PathFigure IsClosed="True">                          
+                      <LineSegment Point="10,0" />
+                      <LineSegment Point="5,6" />                          
+                    </PathFigure>
+                    <PathFigure StartPoint="0,10">
+                      <LineSegment Point="10,10"/>
+                    </PathFigure>
+                  </PathGeometry>                        
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+
+     <DrawingImage x:Key="AddIcon">
+        <DrawingImage.Drawing>
+          <DrawingGroup>
+            <GeometryDrawing>
+                <GeometryDrawing.Pen>
+                    <Pen Thickness="1" Brush="Transparent" />
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                  <PathGeometry>
+                    <PathFigure IsClosed="True">
+                      <LineSegment Point="10,0" />
+                      <LineSegment Point="10,10" />
+                      <LineSegment Point="0,10" />
+                    </PathFigure>                        
+                  </PathGeometry>                        
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing Brush="#FF6B7D99">
+                <GeometryDrawing.Pen>
+                    <Pen Thickness="2" Brush="#FF6B7D99" StartLineCap="Round" EndLineCap="Round"  />
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                  <PathGeometry>
+                    <PathFigure StartPoint="5,1">
+                      <LineSegment Point="5,9" />
+                    </PathFigure>
+                    <PathFigure StartPoint="1,5">
+                      <LineSegment Point="9,5" />
+                    </PathFigure>
+                  </PathGeometry>                        
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    
+    <DrawingImage x:Key="DeleteIcon">
+        <DrawingImage.Drawing>
+          <DrawingGroup>
+            <GeometryDrawing>
+                <GeometryDrawing.Pen>
+                    <Pen Thickness="1" Brush="Transparent" />
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                  <PathGeometry>
+                    <PathFigure IsClosed="True">
+                      <LineSegment Point="10,0" />
+                      <LineSegment Point="10,10" />
+                      <LineSegment Point="0,10" />
+                    </PathFigure>                        
+                  </PathGeometry>                        
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing Brush="#FF6B7D99">
+                <GeometryDrawing.Pen>
+                    <Pen Thickness="2" Brush="#FF6B7D99" StartLineCap="Round" EndLineCap="Round"  />
+                </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                  <PathGeometry>
+                    <PathFigure StartPoint="1,5">
+                      <LineSegment Point="9,5" />
+                    </PathFigure>
+                  </PathGeometry>                        
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+    
+    <DrawingImage x:Key="FontIcon">
+      <DrawingImage.Drawing>
+        <DrawingGroup>
+          <GeometryDrawing>
+              <GeometryDrawing.Pen>
+                  <Pen Thickness="1" Brush="Transparent" />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <PathGeometry>
+                  <PathFigure IsClosed="True">
+                    <LineSegment Point="10,0" />
+                    <LineSegment Point="10,10" />
+                    <LineSegment Point="0,10" />
+                  </PathFigure>                        
+                </PathGeometry>                        
+              </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          <GeometryDrawing>
+              <GeometryDrawing.Pen>
+                  <Pen Thickness="2" Brush="#FF6B7D99" StartLineCap="Round" EndLineCap="Round"  />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <PathGeometry>
+                  <PathFigure StartPoint="1,1">
+                    <LineSegment Point="2,1" />
+                    <LineSegment Point="8,1" />
+                    <LineSegment Point="9,1" />
+                  </PathFigure>
+                </PathGeometry>                        
+              </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          
+          <GeometryDrawing>
+              <GeometryDrawing.Pen>
+                  <Pen Thickness="2" Brush="#FF6B7D99" StartLineCap="Square" EndLineCap="Round"  />
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                <PathGeometry>
+                  <PathFigure StartPoint="5,1">
+                    <LineSegment Point="5,9" />
+                  </PathFigure>
+                </PathGeometry>                        
+              </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          </DrawingGroup>
+      </DrawingImage.Drawing>
+    </DrawingImage>
+	
+	    <DrawingImage x:Key="SmileIcon">
+        <DrawingImage.Drawing>
+          <DrawingGroup>
+            <GeometryDrawing>            
+              <GeometryDrawing.Brush>
+                  <RadialGradientBrush GradientOrigin="0.466,0.456">
+            				<RadialGradientBrush.RelativeTransform>
+            					<TransformGroup>
+            						<ScaleTransform CenterX="0.5" CenterY="0.5" ScaleX="1.365" ScaleY="1.392"/>
+            						<SkewTransform AngleX="0" AngleY="0" CenterX="0.5" CenterY="0.5"/>
+            						<RotateTransform Angle="-29.981" CenterX="0.5" CenterY="0.5"/>
+            						<TranslateTransform X="0.045" Y="-0.095"/>
+            					</TransformGroup>
+            				</RadialGradientBrush.RelativeTransform>
+            				<GradientStop Color="#FFFFEFB4" Offset="0"/>
+            				<GradientStop Color="#FFFFC800" Offset="0.625"/>
+            				<GradientStop Color="#FFE7B500" Offset="1"/>
+            			</RadialGradientBrush>
+              </GeometryDrawing.Brush>
+              <GeometryDrawing.Pen>
+                  <Pen Thickness="2">
+                      <Pen.Brush>
+                          <LinearGradientBrush StartPoint="0.3,0" EndPoint="0.8,1">
+                              <GradientStop Offset="0" Color="#66E0E0E0" />
+                              <GradientStop Offset="1" Color="#66303030" />
+                          </LinearGradientBrush>
+                      </Pen.Brush>
+                  </Pen>
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                  <EllipseGeometry RadiusX="20" RadiusY="20" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            
+            
+            <GeometryDrawing>            
+              <GeometryDrawing.Brush>
+                <SolidColorBrush Color="Black" />                  
+              </GeometryDrawing.Brush>
+              <GeometryDrawing.Pen>
+                  <Pen Thickness="2">
+                      <Pen.Brush>
+                          <SolidColorBrush Color="#66303030" />
+                      </Pen.Brush>
+                  </Pen>
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                  <EllipseGeometry Center="-6,-5" RadiusX="2" RadiusY="2" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            
+            
+            <GeometryDrawing>            
+              <GeometryDrawing.Brush>
+                <SolidColorBrush Color="Black" />                  
+              </GeometryDrawing.Brush>
+              <GeometryDrawing.Pen>
+                  <Pen Thickness="2">
+                      <Pen.Brush>
+                          <SolidColorBrush Color="#66303030" />
+                      </Pen.Brush>
+                  </Pen>
+              </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                  <EllipseGeometry Center="6,-5" RadiusX="2" RadiusY="2" />
+              </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            
+            <GeometryDrawing>
+                  <GeometryDrawing.Pen>
+                    <Pen Thickness="3">
+                      <Pen.Brush>
+                        <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                  				<GradientStop Color="#FFD72C2C" Offset="0"/>
+                  				<GradientStop Color="#FFA40000" Offset="0.308"/>
+                  				<GradientStop Color="#FFA40000" Offset="0.702"/>
+                  				<GradientStop Color="#FFD72C2C" Offset="1"/>
+                  			</LinearGradientBrush>
+                      </Pen.Brush>
+                    </Pen>
+                  </GeometryDrawing.Pen>
+                <GeometryDrawing.Geometry>
+                    <PathGeometry>
+                      <PathFigure StartPoint="-11,5">
+                        <PathFigure.Segments>
+                          <PathSegmentCollection>
+                            <BezierSegment Point1="-11,5" Point2="0,15" Point3="11,5" />
+                          </PathSegmentCollection>
+                        </PathFigure.Segments>
+                      </PathFigure>
+                    </PathGeometry>
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+          </DrawingGroup>
+        </DrawingImage.Drawing>
+    </DrawingImage>
+        
+    <DrawingImage x:Key="SadIcon">
+      <DrawingImage.Drawing>
+        <DrawingGroup>
+          <GeometryDrawing>            
+            <GeometryDrawing.Brush>
+                <RadialGradientBrush GradientOrigin="0.466,0.456">
+          				<RadialGradientBrush.RelativeTransform>
+          					<TransformGroup>
+          						<ScaleTransform CenterX="0.5" CenterY="0.5" ScaleX="1.365" ScaleY="1.392"/>
+          						<SkewTransform AngleX="0" AngleY="0" CenterX="0.5" CenterY="0.5"/>
+          						<RotateTransform Angle="-29.981" CenterX="0.5" CenterY="0.5"/>
+          						<TranslateTransform X="0.045" Y="-0.095"/>
+          					</TransformGroup>
+          				</RadialGradientBrush.RelativeTransform>
+          				<GradientStop Color="#FFFFEFB4" Offset="0"/>
+          				<GradientStop Color="#FFFFC800" Offset="0.625"/>
+          				<GradientStop Color="#FFE7B500" Offset="1"/>
+          			</RadialGradientBrush>
+            </GeometryDrawing.Brush>
+            <GeometryDrawing.Pen>
+                <Pen Thickness="2">
+                    <Pen.Brush>
+                        <LinearGradientBrush StartPoint="0.3,0" EndPoint="0.8,1">
+                            <GradientStop Offset="0" Color="#66E0E0E0" />
+                            <GradientStop Offset="1" Color="#66303030" />
+                        </LinearGradientBrush>
+                    </Pen.Brush>
+                </Pen>
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+                <EllipseGeometry RadiusX="20" RadiusY="20" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          
+          
+          <GeometryDrawing>            
+            <GeometryDrawing.Brush>
+              <SolidColorBrush Color="Black" />                  
+            </GeometryDrawing.Brush>
+            <GeometryDrawing.Pen>
+                <Pen Thickness="2">
+                    <Pen.Brush>
+                        <SolidColorBrush Color="#66303030" />
+                    </Pen.Brush>
+                </Pen>
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+                <EllipseGeometry Center="-6,-5" RadiusX="2" RadiusY="2" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          
+          
+          <GeometryDrawing>            
+            <GeometryDrawing.Brush>
+              <SolidColorBrush Color="Black" />                  
+            </GeometryDrawing.Brush>
+            <GeometryDrawing.Pen>
+                <Pen Thickness="2">
+                    <Pen.Brush>
+                        <SolidColorBrush Color="#66303030" />
+                    </Pen.Brush>
+                </Pen>
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+                <EllipseGeometry Center="6,-5" RadiusX="2" RadiusY="2" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          
+          <GeometryDrawing>
+                <GeometryDrawing.Pen>
+                  <Pen Thickness="3">
+                    <Pen.Brush>
+                      <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
+                				<GradientStop Color="#FFD72C2C" Offset="0"/>
+                				<GradientStop Color="#FFA40000" Offset="0.308"/>
+                				<GradientStop Color="#FFA40000" Offset="0.702"/>
+                				<GradientStop Color="#FFD72C2C" Offset="1"/>
+                			</LinearGradientBrush>
+                    </Pen.Brush>
+                  </Pen>
+                </GeometryDrawing.Pen>
+              <GeometryDrawing.Geometry>
+                  <PathGeometry>
+                    <PathFigure StartPoint="-11,8">
+                      <PathFigure.Segments>
+                        <PathSegmentCollection>
+                          <BezierSegment Point1="-11,8" Point2="0,0" Point3="11,8" />
+                        </PathSegmentCollection>
+                      </PathFigure.Segments>
+                    </PathFigure>
+                  </PathGeometry>
+              </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+        </DrawingGroup>
+      </DrawingImage.Drawing>
+  </DrawingImage>
+  
+    <DrawingImage x:Key="SurpriseIcon">
+      <DrawingImage.Drawing>
+        <DrawingGroup>
+          <GeometryDrawing>            
+            <GeometryDrawing.Brush>
+                <RadialGradientBrush GradientOrigin="0.466,0.456">
+          				<RadialGradientBrush.RelativeTransform>
+          					<TransformGroup>
+          						<ScaleTransform CenterX="0.5" CenterY="0.5" ScaleX="1.365" ScaleY="1.392"/>
+          						<SkewTransform AngleX="0" AngleY="0" CenterX="0.5" CenterY="0.5"/>
+          						<RotateTransform Angle="-29.981" CenterX="0.5" CenterY="0.5"/>
+          						<TranslateTransform X="0.045" Y="-0.095"/>
+          					</TransformGroup>
+          				</RadialGradientBrush.RelativeTransform>
+          				<GradientStop Color="#FFFFEFB4" Offset="0"/>
+          				<GradientStop Color="#FFFFC800" Offset="0.625"/>
+          				<GradientStop Color="#FFE7B500" Offset="1"/>
+          			</RadialGradientBrush>
+            </GeometryDrawing.Brush>
+            <GeometryDrawing.Pen>
+                <Pen Thickness="2">
+                    <Pen.Brush>
+                        <LinearGradientBrush StartPoint="0.3,0" EndPoint="0.8,1">
+                            <GradientStop Offset="0" Color="#66E0E0E0" />
+                            <GradientStop Offset="1" Color="#66303030" />
+                        </LinearGradientBrush>
+                    </Pen.Brush>
+                </Pen>
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+                <EllipseGeometry RadiusX="20" RadiusY="20" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          
+          
+          <GeometryDrawing>            
+            <GeometryDrawing.Brush>
+              <SolidColorBrush Color="Black" />                  
+            </GeometryDrawing.Brush>
+            <GeometryDrawing.Pen>
+              <Pen Thickness="2">
+                <Pen.Brush>
+                  <SolidColorBrush Color="#66303030" />
+                </Pen.Brush>
+              </Pen>
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+                <EllipseGeometry Center="-6,-5" RadiusX="2" RadiusY="2" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          
+          
+          <GeometryDrawing>            
+            <GeometryDrawing.Brush>
+              <SolidColorBrush Color="Black" />                  
+            </GeometryDrawing.Brush>
+            <GeometryDrawing.Pen>
+              <Pen Thickness="2">
+                <Pen.Brush>
+                  <SolidColorBrush Color="#66303030" />
+                </Pen.Brush>
+              </Pen>
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+                <EllipseGeometry Center="6,-5" RadiusX="2" RadiusY="2" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+          
+          <GeometryDrawing>
+            <GeometryDrawing.Brush>
+              <SolidColorBrush Color="#FFA40000" />
+            </GeometryDrawing.Brush>
+            <GeometryDrawing.Pen>
+              <Pen Thickness="1">
+                <Pen.Brush>
+                  <SolidColorBrush Color="#FFA40000" />                      
+                </Pen.Brush>
+              </Pen>                 
+            </GeometryDrawing.Pen>
+            <GeometryDrawing.Geometry>
+              <EllipseGeometry Center="0,6" RadiusX="3" RadiusY="3" />
+            </GeometryDrawing.Geometry>
+          </GeometryDrawing>
+        </DrawingGroup>
+      </DrawingImage.Drawing>
+  </DrawingImage>  
+
+</ResourceDictionary>

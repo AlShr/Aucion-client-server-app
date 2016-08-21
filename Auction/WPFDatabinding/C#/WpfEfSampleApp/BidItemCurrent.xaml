@@ -1,0 +1,241 @@
+﻿<Page x:Class="WpfEfSampleApp.BidItemCurrent"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:servref="clr-namespace:WpfEfSampleApp.RealAuctionServiceRef"
+      mc:Ignorable="d" 
+      
+      xmlns:src="clr-namespace:WpfEfSampleApp"
+      d:DesignHeight="300" d:DesignWidth="600"
+      WindowWidth="625" WindowHeight="680"
+      Height="687" Width="610" Loaded="BidItemCurrent_Loaded"
+	Title="BidItemCurrent" >
+    <Page.Resources>
+        <CollectionViewSource x:Key="UserPostLookup"/>
+        <CollectionViewSource x:Key="MasterAuctionItem"/>
+        <CollectionViewSource x:Key="UserBidsLookup"/>
+    </Page.Resources>
+    <Grid MouseLeftButtonDown="Grid_MouseLeftButtonDown" >
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" Opacity="0.9" StartPoint="0.5,0">
+                <GradientStop Color="#FF2362B8" Offset="0.2"/>
+                <GradientStop Color="#FF1041EA" Offset="0.707"/>
+                <GradientStop Color="#FF277CD8" Offset="0.909"/>
+                <GradientStop Color="#FF007AFF" Offset="0.1"/>
+                <GradientStop Color="#FF007AFF" Offset="0.8"/>
+                <GradientStop Color="#66E0E0E0" Offset="0"/>
+                <GradientStop Color="#FFA6C0E2" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Border BorderThickness="1" BorderBrush="Gray"
+                    Padding="7" Name="border" Margin="3">
+            <Grid x:Name="ViewUserItem" Grid.Row="0" Grid.Column="0"  VerticalAlignment="Stretch"
+              DataContext="{Binding Path=UserItem}">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Image Source="{Binding Path=UserImage, Converter={StaticResource ImageToSourceConverter }}" Stretch="Fill" 
+                   Grid.Row="0" Grid.Column="0"  VerticalAlignment="Top"/>
+                <TextBlock Grid.Row="0" Grid.Column="1" Text="{Binding Path=Name}"/>
+            </Grid>
+        </Border>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2"
+                    x:Name="Menu" Background="Transparent">
+            <Button Style="{DynamicResource ButtonStyle}" HorizontalAlignment="Right" Margin="10" Click="LeavedAuction">
+                <Image Width="10" Height="10" Source="{DynamicResource CloseIcon}" />
+            </Button>
+            
+            <Button Style="{DynamicResource ButtonStyle}" HorizontalAlignment="Right" Margin="10" Click="Button_Click">
+                <Image Width="10" Height="10" Source="{DynamicResource UpArrowIcon}" />
+                
+            </Button>
+        </StackPanel>
+        <ListBox Name="ListBids" Grid.Row="1" Grid.Column="0" Background="Transparent"
+                 ItemsSource="{Binding Source={StaticResource UserBidsLookup}}">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderThickness="1" BorderBrush="Gray"
+                    Padding="7" Name="border" Margin="3"  Width="130" Height="50">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition Width="5"/>
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Image Grid.Row="0" Grid.Column="0" Grid.RowSpan="2" Width="50" Height="50"
+                                   Source="{Binding Path=CurrentUseritem.UserImage,Converter={StaticResource ImageToSourceConverter}}"/>
+                            <TextBlock Name="UserNameBids" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2"
+                                       Text="{Binding Path=CurrentUseritem.Name}" 
+                                        Style="{StaticResource textStyleTextBlock}"/>
+                            <TextBlock Text="$" Style="{StaticResource textStyleTextBlock}"  Grid.Row="1" Grid.Column="1"/>
+                            <TextBlock Name="BidAuctionItems" Grid.Row="1" Grid.Column="2" Text="{Binding Path=Amount}"
+                                       Style="{StaticResource textStyleTextBlock}"/>
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ListBox>
+        <ListBox Name="ListPosts" Grid.Row="2" Grid.Column="0"  Grid.ColumnSpan="2" Style="{DynamicResource ListBoxStyle}"
+                 ItemsSource="{Binding Source={StaticResource UserPostLookup}}" Background="Transparent" >
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderThickness="1" BorderBrush="Gray"
+                    Padding="7" Name="border" Margin="3"  Width="250" Height="80">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="80"/>
+                                <ColumnDefinition Width="100"/>
+                                <ColumnDefinition Width="70"/>
+                            </Grid.ColumnDefinitions>
+                            <Image  Grid.Row="0" Grid.Column="0" Grid.RowSpan="4" 
+                                Source="{Binding Path=Said.UserImage, Converter={StaticResource ImageToSourceConverter}}"/>
+                            <TextBlock Name="DescriptionDTDataType" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2"
+                               Text="{Binding Path=Said.Name}"
+                               Style="{StaticResource textStyleTextBlock}"/>
+                            <TextBlock Name="UserPostDTDataType" Grid.Row="1" Grid.Column="1" Grid.RowSpan="3" Grid.ColumnSpan="2"
+                                   Text="{Binding Path=Post}" TextWrapping="Wrap" TextAlignment="Left"
+                                   Style="{StaticResource textStyleTextBlock}"/>
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ListBox>
+        <StackPanel Grid.Row="1" Grid.Column="1"  x:Name="ViewAuctionItem" Grid.ColumnSpan="2"
+                   DataContext="{Binding Path=AuctionItem}" Background="Transparent">
+            <Grid Height="285">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="90"/>
+                    <ColumnDefinition Width="90"/>
+                </Grid.ColumnDefinitions>
+                <Image Source="{Binding Path=ImageAuctionItem, Converter={StaticResource ImageToSourceConverter }}" 
+                       Stretch="Fill" Grid.Row="0" Grid.Column="0" Grid.RowSpan="9" 
+                       Height="285" VerticalAlignment="Top"/>
+                <TextBlock Grid.Row="0" Grid.Column="1" Margin="8,8,8,0"
+                   Name="descriptionTitle" Style="{StaticResource smallTitleStyle}">Description:</TextBlock>
+                <TextBlock Grid.Row="0" Grid.Column="2" Margin="8,8,8,0" 
+                   Name="BindingDescription" Text="{Binding Path=Description}"
+                           Style="{StaticResource textStyleTextBlock}"/>
+                <TextBlock Grid.Row="1" Grid.Column="1" Margin="8,8,8,0"
+                   Name="descriptionStartPrice" Style="{StaticResource smallTitleStyle}">Start Price:</TextBlock>
+                <TextBlock Grid.Row="1" Grid.Column="2" Margin="8,8,8,0"
+                   Name="BindingStartPrice" Text="{Binding Path=StartPrice}"
+                               Style="{StaticResource textStyleTextBlock}"/>
+                <TextBlock Grid.Row="2" Grid.Column="1" Margin="8,8,8,0"
+                   Name="descriptionBid"  Style="{StaticResource smallTitleStyle}">Current Bid:</TextBlock>
+                <TextBlock Grid.Row="2" Grid.Column="2" Margin="8,8,8,0"
+                   Name="BindingBid" DataContext="{Binding Path=Bid}"  Text="{Binding Path=Amount}"
+                               Style="{StaticResource textStyleTextBlock}"/>
+                <TextBlock Grid.Row="3" Grid.Column="1" Margin="8,8,8,0"
+                   Name="descriptionOwner" Style="{StaticResource smallTitleStyle}">Owner:</TextBlock>
+                <TextBlock Grid.Row="3" Grid.Column="2" Margin="8,8,8,0"
+                   Name="BindingOwner" Text="{Binding Path=Owner.Name}"
+                               Style="{StaticResource textStyleTextBlock}"/>
+                <TextBlock Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Margin="8,8,8,0"
+                   Name="descriptionInfo" Style="{StaticResource smallTitleStyle}">Info:</TextBlock>
+                <TextBlock Grid.Row="5" Grid.Column="1" Grid.RowSpan="4" Grid.ColumnSpan="2" Margin="8,8,8,0"
+                   Name="BindingInfo" FontSize="24" TextWrapping="Wrap"
+                           Text="{Binding Info}"/>
+            </Grid>
+        </StackPanel>
+        <Grid Grid.Row="2" Grid.Column="3">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="100"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" x:Name="TimeTablo"
+                   Foreground="#FF3BE8D8" FontFamily="Showcard Gothic" FontSize="24" Width="Auto" 
+                   HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="Transparent"/>
+            <Grid Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" x:Name="BidAction" Background="Transparent"
+                  DataContext="{Binding Path=Bid}">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="80"/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Row="0" Grid.Column="0" Margin="8,8,8,0"
+                   Name="descriptionCurrentPrice" Style="{StaticResource smallTitleStyle}">Last Bid:</TextBlock>
+                <TextBlock Grid.Row="0" Grid.Column="1" Margin="8,8,8,0"
+                   x:Name="lastBid" Text="{Binding Path=Amount}" 
+                               Style="{StaticResource textStyleTextBlock}"/>
+                <Image Source="{Binding Path=CurrentUseritem.UserImage, Converter={StaticResource ImageToSourceConverter }}" 
+                       Stretch="Fill" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Margin="100,0,0,0"/>
+                <TextBlock Grid.Row="1" Grid.Column="0" Margin="8,8,8,0" TextWrapping="Wrap"
+                   Name="ByNow" Style="{StaticResource smallTitleStyle}">By Now:</TextBlock>
+                <TextBlock Grid.Row="1" Grid.Column="1" Margin="8,8,8,0" HorizontalAlignment="Center" VerticalAlignment="Center"
+                   Name="DealData" Style="{StaticResource textStyleTextBlock}" DataContext="{Binding Path=AuctionItem}"
+                           Text="{Binding Path=BuyNowPrice,UpdateSourceTrigger=PropertyChanged}"/>
+                <Button Content="Купить" x:Name="buyingbt" 
+                        HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+			        Grid.Row="1" Grid.Column="3"  Click="BuyNowBidAuctionItem"/>
+                <TextBlock Grid.Row="2" Grid.Column="0" Margin="8,8,8,0"
+                   Name="descriptionBidStep" Style="{StaticResource smallTitleStyle}">Auction Step:</TextBlock>
+                <TextBlock Grid.Row="2" Grid.Column="1" Margin="8,8,8,0" HorizontalAlignment="Center" VerticalAlignment="Center"
+                   Name="BindingBStepData" Text="5%"
+                               Style="{StaticResource textStyleTextBlock}"/>
+                <Button Content="Расчитать" x:Name="computebt"
+                        HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+			        Grid.Row="2" Grid.Column="3"  Click="ComputeBidAuctionItem"/>
+                <TextBlock Grid.Row="3" Grid.Column="0" Margin="8,8,8,0" TextWrapping="Wrap"
+                   Name="descriptionDeals" Style="{StaticResource smallTitleStyle}">Deals AuctionItem:</TextBlock>
+                <TextBlock Grid.Row="3" Grid.Column="1" Margin="8,8,8,0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                   Name="currentBidData" Style="{StaticResource textStyleTextBlock}" Text="{Binding Amount}" DataContext="{Binding Bid}"/>
+                <Button Content="Выставить ставку" x:Name="dealbt"
+                        HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+			        Grid.Row="3" Grid.Column="3"  Click="SendBidAuctionItem"/>
+            </Grid>
+            <TextBox Text="{Binding Path=Post, UpdateSourceTrigger=PropertyChanged}" 
+                       Grid.Row="2" Grid.Column="0"  Name="PostsUWriter" Background="Transparent"
+                       Width="Auto" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" 
+                       TextWrapping="Wrap" Margin="0,0,0,0" />
+            <Button Content="Отправить"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Row="2" Grid.Column="3" Click="SendPostUItem"/>
+
+
+        </Grid>
+
+    </Grid>
+</Page>

@@ -1,0 +1,79 @@
+﻿<Page x:Class="WpfEfSampleApp.Regestration"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:src="clr-namespace:WpfEfSampleApp"
+      mc:Ignorable="d" ShowsNavigationUI="True"
+      WindowWidth="450" WindowHeight="450"
+      d:DesignHeight="450" d:DesignWidth="450"
+	Title="Regestration" Loaded="Regestration_Loaded">
+    <Page.Resources>
+        <src:ByteArrayToImageSource x:Key="ImageToSourceConverter"/>
+        
+    </Page.Resources>
+    <Border>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Border BorderThickness="2"  Grid.Row="0" MouseLeftButtonDown="Border_MouseLeftButtonDown">
+                <Grid Background="{DynamicResource ConversationBackground}">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="2"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="2"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="10"/>
+                        <RowDefinition/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="106"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button  Grid.Row="0" Grid.Column="0" Style="{DynamicResource ButtonStyle}" HorizontalAlignment="Right" Margin="10" Click="LeavedAuction">
+                        <Image Width="10" Height="10" Source="{DynamicResource CloseIcon}" />
+                    </Button>
+                    <TextBlock Grid.Row="0" Grid.Column="1"  TextAlignment="Right"
+                               Style="{StaticResource titleStyle}"
+                               Margin="5">Regestration User Item</TextBlock>
+                    <TextBlock Grid.Row="1" Grid.Column="0" Style="{StaticResource smallTitleStyle}" Margin="0,5,0,5"> Name:</TextBlock>
+                    <Border Margin="8,0,8,0" Grid.Row="1" Grid.Column="1" BorderBrush="{DynamicResource WindowBorder}" BorderThickness="2" CornerRadius="8" Background="White">
+                        <TextBox Name="UserNameEntryForm"   Padding="4,2,2,2" FontWeight="Bold" Background="Transparent" BorderBrush="Transparent" BorderThickness="0"
+                             Text="{Binding Path=Name, UpdateSourceTrigger=PropertyChanged}"/>
+                    </Border>
+                    <TextBlock Name="UserPassEntyForm" Grid.Row="3" Grid.Column="0" Style="{StaticResource smallTitleStyle}" Margin="0,5,0,5">Password:</TextBlock>
+                    <Border Margin="8,0,8,0" Grid.Row="3" Grid.Column="1" BorderBrush="{DynamicResource WindowBorder}" BorderThickness="2" CornerRadius="8" Background="White">
+                        <PasswordBox x:Name="UserPassword" Background="Transparent" BorderBrush="Transparent" BorderThickness="0" Padding="4,2,2,2" ScrollViewer.VerticalScrollBarVisibility="Hidden" PasswordChanged="OnPasswordChanged"/>
+                    </Border>
+                    <TextBlock Grid.Row="5" Grid.Column="0" Style="{StaticResource smallTitleStyle}" Margin="0,5,0,5">Email:</TextBlock>
+                    <Border Margin="8,0,8,0" Grid.Row="5" Grid.Column="1" BorderBrush="{DynamicResource WindowBorder}" BorderThickness="2" CornerRadius="8" Background="White">
+                        <TextBox Name="UserEmailEntryForm"   Padding="4,2,2,2" FontWeight="Bold" Background="Transparent" BorderBrush="Transparent" BorderThickness="0"
+                             Text="{Binding Path=Email, UpdateSourceTrigger=PropertyChanged}"/>
+                    </Border>
+                    <StackPanel Grid.Row="7" Grid.Column="0">
+                        <TextBlock  Style="{StaticResource smallTitleStyle}" Margin="0,5,0,5">Photo:</TextBlock>
+                        <Button x:Name="ConnectButton" BorderThickness="2" BorderBrush="{DynamicResource WindowBorder}" Style="{DynamicResource ButtonStyle}" HorizontalAlignment="Right"
+                        Padding="20,5,8,5" Height="6" Margin="0,0,5,10" VerticalAlignment="Top" Click="Click_AddUserImage" />
+                      
+                    </StackPanel>
+                    <Border Margin="8,0,8,0" Grid.Row="7" Grid.Column="1"  BorderBrush="{DynamicResource WindowBorder}" BorderThickness="2" CornerRadius="20" Background="Transparent" >
+                        <Image Source="{Binding Path=UserImage,Converter={StaticResource ImageToSourceConverter}}"   Stretch="Fill" />
+                    </Border>
+                    <TextBlock Grid.Row="8" Grid.ColumnSpan="2" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0 0 20 0">
+                        <Hyperlink Foreground="DeepSkyBlue" Click="Save_Click"> Save</Hyperlink>
+                    </TextBlock>
+
+                </Grid>
+            </Border>
+        </Grid>
+
+    </Border>
+
+
+</Page>

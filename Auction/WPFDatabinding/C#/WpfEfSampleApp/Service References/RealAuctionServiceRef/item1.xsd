@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/MyWCFServices.RealAuctionService" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/MyWCFServices.RealAuctionService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="UserItem">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Rating" type="xs:int" />
+      <xs:element minOccurs="0" name="Upassword" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="UserImage" nillable="true" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="UserItemID" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="UserItem" nillable="true" type="tns:UserItem" />
+  <xs:complexType name="ArrayOfAuctionItem">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="AuctionItem" nillable="true" type="tns:AuctionItem" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfAuctionItem" nillable="true" type="tns:ArrayOfAuctionItem" />
+  <xs:complexType name="AuctionItem">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="AuctionItemID" type="xs:int" />
+      <xs:element minOccurs="0" name="Bids" nillable="true" type="tns:ArrayOfBid" />
+      <xs:element minOccurs="0" name="BuyNowPrice" type="xs:int" />
+      <xs:element minOccurs="0" name="Category" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Description" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ImageAuctionItem" nillable="true" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="Info" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Owner" nillable="true" type="tns:UserItem" />
+      <xs:element minOccurs="0" name="SaleFlag" type="xs:int" />
+      <xs:element minOccurs="0" name="SpecialFeatures" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="StartDate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="StartPrice" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="AuctionItem" nillable="true" type="tns:AuctionItem" />
+  <xs:complexType name="ArrayOfBid">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Bid" nillable="true" type="tns:Bid" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfBid" nillable="true" type="tns:ArrayOfBid" />
+  <xs:complexType name="Bid">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Amount" type="xs:int" />
+      <xs:element minOccurs="0" name="AuctionItemID" type="xs:int" />
+      <xs:element minOccurs="0" name="BidID" type="xs:int" />
+      <xs:element minOccurs="0" name="CurrentDate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="CurrentUseritem" nillable="true" type="tns:UserItem" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Bid" nillable="true" type="tns:Bid" />
+  <xs:complexType name="CategoryItem">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Category" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CategoryID" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CategoryItem" nillable="true" type="tns:CategoryItem" />
+  <xs:complexType name="SpecialFeatureItem">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Feature" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="SpecialFeatureID" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="SpecialFeatureItem" nillable="true" type="tns:SpecialFeatureItem" />
+  <xs:complexType name="ArrayOfPostsUItem">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="PostsUItem" nillable="true" type="tns:PostsUItem" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPostsUItem" nillable="true" type="tns:ArrayOfPostsUItem" />
+  <xs:complexType name="PostsUItem">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Post" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PostTime" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="PostUItemID" type="xs:int" />
+      <xs:element minOccurs="0" name="Said" nillable="true" type="tns:UserItem" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="PostsUItem" nillable="true" type="tns:PostsUItem" />
+  <xs:complexType name="DealsItem">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="AuctionItem" nillable="true" type="tns:AuctionItem" />
+      <xs:element minOccurs="0" name="BidItem" nillable="true" type="tns:Bid" />
+      <xs:element minOccurs="0" name="CurrentTime" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="DealId" type="xs:int" />
+      <xs:element minOccurs="0" name="UserItemId" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DealsItem" nillable="true" type="tns:DealsItem" />
+</xs:schema>

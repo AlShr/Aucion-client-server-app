@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AuctionModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2006/04/edm">
+  <EntityContainer Name="AuctionEntities">
+    <EntitySet Name="AuctionItems" EntityType="AuctionModel.AuctionItem" />
+    <EntitySet Name="Bids" EntityType="AuctionModel.Bid" />
+    <EntitySet Name="Categories" EntityType="AuctionModel.Category" />
+    <EntitySet Name="SpecialFeaturesEntryForms" EntityType="AuctionModel.SpecialFeaturesEntryForm" />
+    <EntitySet Name="UserItems" EntityType="AuctionModel.UserItem" />
+    <AssociationSet Name="FK__AuctionIt__bidID__33D4B598" Association="AuctionModel.FK__AuctionIt__bidID__33D4B598">
+      <End Role="Bid" EntitySet="Bids" />
+      <End Role="AuctionItem" EntitySet="AuctionItems" />
+    </AssociationSet>
+    <AssociationSet Name="FK__AuctionIt__categ__30F848ED" Association="AuctionModel.FK__AuctionIt__categ__30F848ED">
+      <End Role="Category" EntitySet="Categories" />
+      <End Role="AuctionItem" EntitySet="AuctionItems" />
+    </AssociationSet>
+    <AssociationSet Name="FK__AuctionIt__spech__31EC6D26" Association="AuctionModel.FK__AuctionIt__spech__31EC6D26">
+      <End Role="SpecialFeaturesEntryForm" EntitySet="SpecialFeaturesEntryForms" />
+      <End Role="AuctionItem" EntitySet="AuctionItems" />
+    </AssociationSet>
+    <AssociationSet Name="FK__AuctionIt__userI__32E0915F" Association="AuctionModel.FK__AuctionIt__userI__32E0915F">
+      <End Role="UserItem" EntitySet="UserItems" />
+      <End Role="AuctionItem" EntitySet="AuctionItems" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Bid__userID__0519C6AF" Association="AuctionModel.FK__Bid__userID__0519C6AF">
+      <End Role="UserItem" EntitySet="UserItems" />
+      <End Role="Bid" EntitySet="Bids" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="AuctionItem">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="discription" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="startPrice" Type="Int32" />
+    <Property Name="startDate" Type="DateTime" Precision="3" />
+    <Property Name="imageAuctionItem" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="Bid" Relationship="AuctionModel.FK__AuctionIt__bidID__33D4B598" FromRole="AuctionItem" ToRole="Bid" />
+    <NavigationProperty Name="Category" Relationship="AuctionModel.FK__AuctionIt__categ__30F848ED" FromRole="AuctionItem" ToRole="Category" />
+    <NavigationProperty Name="SpecialFeaturesEntryForm" Relationship="AuctionModel.FK__AuctionIt__spech__31EC6D26" FromRole="AuctionItem" ToRole="SpecialFeaturesEntryForm" />
+    <NavigationProperty Name="UserItem" Relationship="AuctionModel.FK__AuctionIt__userI__32E0915F" FromRole="AuctionItem" ToRole="UserItem" />
+  </EntityType>
+  <EntityType Name="Bid">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="amount" Type="Int32" />
+    <NavigationProperty Name="AuctionItems" Relationship="AuctionModel.FK__AuctionIt__bidID__33D4B598" FromRole="Bid" ToRole="AuctionItem" />
+    <NavigationProperty Name="UserItem" Relationship="AuctionModel.FK__Bid__userID__0519C6AF" FromRole="Bid" ToRole="UserItem" />
+  </EntityType>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="category" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="AuctionItems" Relationship="AuctionModel.FK__AuctionIt__categ__30F848ED" FromRole="Category" ToRole="AuctionItem" />
+  </EntityType>
+  <EntityType Name="SpecialFeaturesEntryForm">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="features" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <NavigationProperty Name="AuctionItems" Relationship="AuctionModel.FK__AuctionIt__spech__31EC6D26" FromRole="SpecialFeaturesEntryForm" ToRole="AuctionItem" />
+  </EntityType>
+  <EntityType Name="UserItem">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="upassword" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="rating" Type="Int32" />
+    <Property Name="email" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="userImage" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="AuctionItems" Relationship="AuctionModel.FK__AuctionIt__userI__32E0915F" FromRole="UserItem" ToRole="AuctionItem" />
+    <NavigationProperty Name="Bids" Relationship="AuctionModel.FK__Bid__userID__0519C6AF" FromRole="UserItem" ToRole="Bid" />
+  </EntityType>
+  <Association Name="FK__AuctionIt__bidID__33D4B598">
+    <End Role="Bid" Type="AuctionModel.Bid" Multiplicity="0..1" />
+    <End Role="AuctionItem" Type="AuctionModel.AuctionItem" Multiplicity="*" />
+  </Association>
+  <Association Name="FK__AuctionIt__categ__30F848ED">
+    <End Role="Category" Type="AuctionModel.Category" Multiplicity="1" />
+    <End Role="AuctionItem" Type="AuctionModel.AuctionItem" Multiplicity="*" />
+  </Association>
+  <Association Name="FK__AuctionIt__spech__31EC6D26">
+    <End Role="SpecialFeaturesEntryForm" Type="AuctionModel.SpecialFeaturesEntryForm" Multiplicity="1" />
+    <End Role="AuctionItem" Type="AuctionModel.AuctionItem" Multiplicity="*" />
+  </Association>
+  <Association Name="FK__AuctionIt__userI__32E0915F">
+    <End Role="UserItem" Type="AuctionModel.UserItem" Multiplicity="1" />
+    <End Role="AuctionItem" Type="AuctionModel.AuctionItem" Multiplicity="*" />
+  </Association>
+  <Association Name="FK__Bid__userID__0519C6AF">
+    <End Role="UserItem" Type="AuctionModel.UserItem" Multiplicity="1" />
+    <End Role="Bid" Type="AuctionModel.Bid" Multiplicity="*" />
+  </Association>
+</Schema>

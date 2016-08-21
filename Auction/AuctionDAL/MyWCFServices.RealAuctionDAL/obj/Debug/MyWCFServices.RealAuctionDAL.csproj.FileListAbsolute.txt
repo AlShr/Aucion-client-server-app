@@ -1,0 +1,272 @@
+F:\Programing\EntityFramework\New\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll.config
+F:\Programing\EntityFramework\New\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\New\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\New\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\New\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\New\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\New\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\New\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\New\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\New\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\New\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\New\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\New\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\New\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\New\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\New\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll.config
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New22.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll.config
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New23.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll.config
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New24.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll.config
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New26.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll.config
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New27.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll.config
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New29.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll.config
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New30.08.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll.config
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New01.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll.config
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New02.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll.config
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New04.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll.config
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New05.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll.config
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New06.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll.config
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New07.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll.config
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll.config
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.pdb
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.xml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.csprojResolveAssemblyReference.cache
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.dll
+F:\Programing\EntityFramework\Курсовой проект\New09.09.14 - 2\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.pdb
+C:\Users\alena\Desktop\Auction\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll.config
+C:\Users\alena\Desktop\Auction\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.dll
+C:\Users\alena\Desktop\Auction\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionDAL.pdb
+C:\Users\alena\Desktop\Auction\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.dll
+C:\Users\alena\Desktop\Auction\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alena\Desktop\Auction\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\alena\Desktop\Auction\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.dll
+C:\Users\alena\Desktop\Auction\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\alena\Desktop\Auction\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\System.Data.SqlServerCe.Entity.dll
+C:\Users\alena\Desktop\Auction\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\MyWCFServices.RealAuctionEntities.pdb
+C:\Users\alena\Desktop\Auction\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.xml
+C:\Users\alena\Desktop\Auction\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alena\Desktop\Auction\AuctionDAL\MyWCFServices.RealAuctionDAL\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\alena\Desktop\Auction\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.csprojResolveAssemblyReference.cache
+C:\Users\alena\Desktop\Auction\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.dll
+C:\Users\alena\Desktop\Auction\AuctionDAL\MyWCFServices.RealAuctionDAL\obj\Debug\MyWCFServices.RealAuctionDAL.pdb

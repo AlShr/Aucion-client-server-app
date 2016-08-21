@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище AuctionModel" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2006/04/edm/ssdl">
+  <EntityContainer Name="Хранилище AuctionModelContainer">
+    <EntitySet Name="AuctionItem" EntityType="Хранилище AuctionModel.AuctionItem" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Bid" EntityType="Хранилище AuctionModel.Bid" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Category" EntityType="Хранилище AuctionModel.Category" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SpecialFeaturesEntryForm" EntityType="Хранилище AuctionModel.SpecialFeaturesEntryForm" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UserItem" EntityType="Хранилище AuctionModel.UserItem" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK__AuctionIt__bidID__33D4B598" Association="Хранилище AuctionModel.FK__AuctionIt__bidID__33D4B598">
+      <End Role="Bid" EntitySet="Bid" />
+      <End Role="AuctionItem" EntitySet="AuctionItem" />
+    </AssociationSet>
+    <AssociationSet Name="FK__AuctionIt__categ__30F848ED" Association="Хранилище AuctionModel.FK__AuctionIt__categ__30F848ED">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="AuctionItem" EntitySet="AuctionItem" />
+    </AssociationSet>
+    <AssociationSet Name="FK__AuctionIt__spech__31EC6D26" Association="Хранилище AuctionModel.FK__AuctionIt__spech__31EC6D26">
+      <End Role="SpecialFeaturesEntryForm" EntitySet="SpecialFeaturesEntryForm" />
+      <End Role="AuctionItem" EntitySet="AuctionItem" />
+    </AssociationSet>
+    <AssociationSet Name="FK__AuctionIt__userI__32E0915F" Association="Хранилище AuctionModel.FK__AuctionIt__userI__32E0915F">
+      <End Role="UserItem" EntitySet="UserItem" />
+      <End Role="AuctionItem" EntitySet="AuctionItem" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Bid__userID__0519C6AF" Association="Хранилище AuctionModel.FK__Bid__userID__0519C6AF">
+      <End Role="UserItem" EntitySet="UserItem" />
+      <End Role="Bid" EntitySet="Bid" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="AuctionItem">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="discription" Type="nvarchar(max)" />
+    <Property Name="startPrice" Type="int" />
+    <Property Name="startDate" Type="datetime" />
+    <Property Name="categoryID" Type="int" Nullable="false" />
+    <Property Name="spechfeatID" Type="int" Nullable="false" />
+    <Property Name="userID" Type="int" Nullable="false" />
+    <Property Name="imageAuctionItem" Type="varbinary(max)" />
+    <Property Name="bidID" Type="int" />
+  </EntityType>
+  <EntityType Name="Bid">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="amount" Type="int" />
+    <Property Name="userID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="category" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SpecialFeaturesEntryForm">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="features" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="UserItem">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="nvarchar(max)" />
+    <Property Name="upassword" Type="nvarchar(max)" />
+    <Property Name="rating" Type="int" />
+    <Property Name="email" Type="nvarchar(max)" />
+    <Property Name="userImage" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK__AuctionIt__bidID__33D4B598">
+    <End Role="Bid" Type="Хранилище AuctionModel.Bid" Multiplicity="0..1" />
+    <End Role="AuctionItem" Type="Хранилище AuctionModel.AuctionItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bid">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="AuctionItem">
+        <PropertyRef Name="bidID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__AuctionIt__categ__30F848ED">
+    <End Role="Category" Type="Хранилище AuctionModel.Category" Multiplicity="1" />
+    <End Role="AuctionItem" Type="Хранилище AuctionModel.AuctionItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="AuctionItem">
+        <PropertyRef Name="categoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__AuctionIt__spech__31EC6D26">
+    <End Role="SpecialFeaturesEntryForm" Type="Хранилище AuctionModel.SpecialFeaturesEntryForm" Multiplicity="1" />
+    <End Role="AuctionItem" Type="Хранилище AuctionModel.AuctionItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SpecialFeaturesEntryForm">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="AuctionItem">
+        <PropertyRef Name="spechfeatID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__AuctionIt__userI__32E0915F">
+    <End Role="UserItem" Type="Хранилище AuctionModel.UserItem" Multiplicity="1" />
+    <End Role="AuctionItem" Type="Хранилище AuctionModel.AuctionItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserItem">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="AuctionItem">
+        <PropertyRef Name="userID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Bid__userID__0519C6AF">
+    <End Role="UserItem" Type="Хранилище AuctionModel.UserItem" Multiplicity="1" />
+    <End Role="Bid" Type="Хранилище AuctionModel.Bid" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="UserItem">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Bid">
+        <PropertyRef Name="userID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
